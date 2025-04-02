@@ -1,0 +1,11 @@
+{
+  "name": "regional-puzzle-updater",
+  "version": "1.0.0",
+  "description": "Daily puzzle updater for regional Wordle game",
+  "main": "scripts/updatePuzzle.js",
+  "scripts": {
+    "update": "node scripts/updatePuzzle.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
