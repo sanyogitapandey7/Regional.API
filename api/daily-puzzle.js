@@ -6,30 +6,25 @@ export default function handler(req, res) {
 
   const puzzlesPath = path.join(process.cwd(), 'data', 'puzzles.json');
   const regionsPath = path.join(process.cwd(), 'data', 'regions.json');
-  const citiesPath = path.join(process.cwd(), 'data', 'cities.json');
 
   const puzzles = JSON.parse(readFileSync(puzzlesPath, 'utf8'));
   const regions = JSON.parse(readFileSync(regionsPath, 'utf8'));
-  const cities = JSON.parse(readFileSync(citiesPath, 'utf8'));
 
-  const regionIds = puzzles[today];
-  if (!regionIds) {
+  const todayPuzzle = puzzles[today];
+
+  if (!todayPuzzle || todayPuzzle.length === 0) {
     return res.status(404).json({ message: "No puzzle found for today" });
   }
 
-  const result = regionIds.map(regionId => {
-    const regionName = regions[regionId];
-    const cityList = cities.filter(c => c.regionId === regionId);
-    const selectedCity = cityList.length > 0 ? cityList[0].city : null;
-
-    return {
-      region: regionName,
-      city: selectedCity
-    };
-  });
+  // Enrich with region names
+  const responseData = todayPuzzle.map(p => ({
+    regionId: p.regionId,
+    region: regions[p.regionId.toString()],
+    city: p.city
+  }));
 
   res.status(200).json({
     date: today,
-    regions: result
+    regions: responseData
   });
 }
