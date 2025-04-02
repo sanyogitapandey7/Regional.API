@@ -26,15 +26,12 @@ export default function handler(req, res) {
     return res.status(404).json({ message: "No puzzle found for today" });
   }
 
-  //const responseData = todayPuzzle.map(p => ({
-  //  regionId: p.regionId,
-  //  region: regions[p.regionId.toString()],
-  //  city: p.city
- // }));
   const responseData = todayPuzzle.map(p => ({
-    p.regionId: p.city
+    regionId: p.regionId,
+    region: regions[p.regionId.toString()],
+    city: p.city
   }));
-
+ 
   res.status(200).json({
     responseData
   });
