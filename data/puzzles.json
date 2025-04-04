@@ -11,12 +11,12 @@
   ],
   "2025-04-04": [
     {
-      "regionId": 1,
-      "city": "RIODEJANEIRO"
+      "regionId": 5,
+      "city": "SEKONDITAKORADI"
     },
     {
-      "regionId": 2,
-      "city": "BURSA"
+      "regionId": 4,
+      "city": "BHAVNAGAR"
     }
   ]
 }
