@@ -1,6 +1,22 @@
 {
   "2025-04-02": [
-    { "regionId": 1, "city": "LIMA" },
-    { "regionId": 2, "city": "ISTANBUL" }
+    {
+      "regionId": 1,
+      "city": "LIMA"
+    },
+    {
+      "regionId": 2,
+      "city": "ISTANBUL"
+    }
+  ],
+  "2025-04-04": [
+    {
+      "regionId": 1,
+      "city": "RIODEJANEIRO"
+    },
+    {
+      "regionId": 2,
+      "city": "BURSA"
+    }
   ]
 }
