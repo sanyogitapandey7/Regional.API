@@ -18,5 +18,15 @@
       "regionId": 4,
       "city": "BHAVNAGAR"
     }
+  ],
+  "2025-04-05": [
+    {
+      "regionId": 3,
+      "city": "SOUTHAMPTON"
+    },
+    {
+      "regionId": 2,
+      "city": "TYUMEN"
+    }
   ]
 }
