@@ -28,5 +28,15 @@
       "regionId": 2,
       "city": "TYUMEN"
     }
+  ],
+  "2025-04-06": [
+    {
+      "regionId": 1,
+      "city": "LAPLATA"
+    },
+    {
+      "regionId": 2,
+      "city": "MECCA"
+    }
   ]
 }
