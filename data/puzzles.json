@@ -38,5 +38,15 @@
       "regionId": 2,
       "city": "MECCA"
     }
+  ],
+  "2025-04-07": [
+    {
+      "regionId": 1,
+      "city": "VALENCIA"
+    },
+    {
+      "regionId": 5,
+      "city": "IKORODU"
+    }
   ]
 }
