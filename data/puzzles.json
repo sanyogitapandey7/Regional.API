@@ -48,5 +48,15 @@
       "regionId": 5,
       "city": "IKORODU"
     }
+  ],
+  "2025-04-08": [
+    {
+      "regionId": 2,
+      "city": "ROSTOVONDON"
+    },
+    {
+      "regionId": 4,
+      "city": "HOCHIMINHCITY"
+    }
   ]
 }
