@@ -68,5 +68,15 @@
       "regionId": 3,
       "city": "LYON"
     }
+  ],
+  "2025-04-10": [
+    {
+      "regionId": 2,
+      "city": "HOMS"
+    },
+    {
+      "regionId": 1,
+      "city": "BELOHORIZONTE"
+    }
   ]
 }
