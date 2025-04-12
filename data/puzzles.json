@@ -88,5 +88,15 @@
       "regionId": 1,
       "city": "WINNIPEG"
     }
+  ],
+  "2025-04-12": [
+    {
+      "regionId": 3,
+      "city": "AMSTERDAM"
+    },
+    {
+      "regionId": 4,
+      "city": "TIRUPPUR"
+    }
   ]
 }
