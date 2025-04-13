@@ -98,5 +98,15 @@
       "regionId": 4,
       "city": "TIRUPPUR"
     }
+  ],
+  "2025-04-13": [
+    {
+      "regionId": 2,
+      "city": "RABAT"
+    },
+    {
+      "regionId": 3,
+      "city": "TURIN"
+    }
   ]
 }
