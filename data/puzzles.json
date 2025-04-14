@@ -108,5 +108,15 @@
       "regionId": 3,
       "city": "TURIN"
     }
+  ],
+  "2025-04-14": [
+    {
+      "regionId": 4,
+      "city": "SHANTOU"
+    },
+    {
+      "regionId": 5,
+      "city": "CAPETOWN"
+    }
   ]
 }
