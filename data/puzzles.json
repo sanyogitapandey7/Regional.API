@@ -118,5 +118,15 @@
       "regionId": 5,
       "city": "CAPETOWN"
     }
+  ],
+  "2025-04-15": [
+    {
+      "regionId": 5,
+      "city": "KANANGA"
+    },
+    {
+      "regionId": 2,
+      "city": "KRASNODAR"
+    }
   ]
 }
