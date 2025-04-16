@@ -128,5 +128,15 @@
       "regionId": 2,
       "city": "KRASNODAR"
     }
+  ],
+  "2025-04-16": [
+    {
+      "regionId": 1,
+      "city": "GRANDESAOLUIS"
+    },
+    {
+      "regionId": 3,
+      "city": "AMSTERDAM"
+    }
   ]
 }
