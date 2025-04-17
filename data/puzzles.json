@@ -138,5 +138,15 @@
       "regionId": 3,
       "city": "AMSTERDAM"
     }
+  ],
+  "2025-04-17": [
+    {
+      "regionId": 4,
+      "city": "DAQING"
+    },
+    {
+      "regionId": 3,
+      "city": "PORTO"
+    }
   ]
 }
