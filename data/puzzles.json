@@ -148,5 +148,15 @@
       "regionId": 3,
       "city": "PORTO"
     }
+  ],
+  "2025-04-18": [
+    {
+      "regionId": 3,
+      "city": "PALERMO"
+    },
+    {
+      "regionId": 4,
+      "city": "HUAIBEI"
+    }
   ]
 }
