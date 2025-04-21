@@ -178,5 +178,15 @@
       "regionId": 3,
       "city": "LYON"
     }
+  ],
+  "2025-04-21": [
+    {
+      "regionId": 3,
+      "city": "NOTTINGHAM"
+    },
+    {
+      "regionId": 2,
+      "city": "GEBZE"
+    }
   ]
 }
