@@ -208,5 +208,15 @@
       "regionId": 1,
       "city": "PORTOALEGRE"
     }
+  ],
+  "2025-04-24": [
+    {
+      "regionId": 2,
+      "city": "HAMAH"
+    },
+    {
+      "regionId": 5,
+      "city": "PORTELIZABETH"
+    }
   ]
 }
