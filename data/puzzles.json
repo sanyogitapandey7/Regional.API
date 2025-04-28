@@ -248,5 +248,15 @@
       "regionId": 3,
       "city": "NAPLES"
     }
+  ],
+  "2025-04-28": [
+    {
+      "regionId": 2,
+      "city": "HAMAH"
+    },
+    {
+      "regionId": 3,
+      "city": "ROME"
+    }
   ]
 }
