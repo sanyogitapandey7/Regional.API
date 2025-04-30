@@ -268,5 +268,15 @@
       "regionId": 5,
       "city": "BRAZZAVILLE"
     }
+  ],
+  "2025-04-30": [
+    {
+      "regionId": 1,
+      "city": "TRUJILLO"
+    },
+    {
+      "regionId": 2,
+      "city": "DAMMAM"
+    }
   ]
 }
