@@ -278,5 +278,15 @@
       "regionId": 2,
       "city": "DAMMAM"
     }
+  ],
+  "2025-05-01": [
+    {
+      "regionId": 2,
+      "city": "CAIRO"
+    },
+    {
+      "regionId": 5,
+      "city": "KADUNA"
+    }
   ]
 }
