@@ -288,5 +288,15 @@
       "regionId": 5,
       "city": "KADUNA"
     }
+  ],
+  "2025-05-02": [
+    {
+      "regionId": 1,
+      "city": "QUITO"
+    },
+    {
+      "regionId": 2,
+      "city": "VOLGOGRAD"
+    }
   ]
 }
