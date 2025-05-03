@@ -298,5 +298,15 @@
       "regionId": 2,
       "city": "VOLGOGRAD"
     }
+  ],
+  "2025-05-03": [
+    {
+      "regionId": 1,
+      "city": "CONCEPCION"
+    },
+    {
+      "regionId": 4,
+      "city": "MEISHAN"
+    }
   ]
 }
