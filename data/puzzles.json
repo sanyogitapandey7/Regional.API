@@ -308,5 +308,15 @@
       "regionId": 4,
       "city": "MEISHAN"
     }
+  ],
+  "2025-05-04": [
+    {
+      "regionId": 5,
+      "city": "BUJUMBURA"
+    },
+    {
+      "regionId": 3,
+      "city": "TOULOUSE"
+    }
   ]
 }
