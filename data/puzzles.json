@@ -328,5 +328,15 @@
       "regionId": 5,
       "city": "MOMBASA"
     }
+  ],
+  "2025-05-06": [
+    {
+      "regionId": 1,
+      "city": "COCHABAMBA"
+    },
+    {
+      "regionId": 3,
+      "city": "COPENHAGEN"
+    }
   ]
 }
