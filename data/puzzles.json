@@ -338,5 +338,15 @@
       "regionId": 3,
       "city": "COPENHAGEN"
     }
+  ],
+  "2025-05-07": [
+    {
+      "regionId": 3,
+      "city": "NICE"
+    },
+    {
+      "regionId": 5,
+      "city": "EKURHULENI"
+    }
   ]
 }
