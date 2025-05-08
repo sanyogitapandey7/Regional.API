@@ -348,5 +348,15 @@
       "regionId": 5,
       "city": "EKURHULENI"
     }
+  ],
+  "2025-05-08": [
+    {
+      "regionId": 1,
+      "city": "TRUJILLO"
+    },
+    {
+      "regionId": 4,
+      "city": "SHENZHEN"
+    }
   ]
 }
