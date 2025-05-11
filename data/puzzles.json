@@ -378,5 +378,15 @@
       "regionId": 2,
       "city": "BURSA"
     }
+  ],
+  "2025-05-11": [
+    {
+      "regionId": 1,
+      "city": "GUADALAJARA"
+    },
+    {
+      "regionId": 5,
+      "city": "NIAMEY"
+    }
   ]
 }
