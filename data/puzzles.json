@@ -388,5 +388,15 @@
       "regionId": 5,
       "city": "NIAMEY"
     }
+  ],
+  "2025-05-12": [
+    {
+      "regionId": 1,
+      "city": "MEXICALI"
+    },
+    {
+      "regionId": 3,
+      "city": "HELSINKI"
+    }
   ]
 }
