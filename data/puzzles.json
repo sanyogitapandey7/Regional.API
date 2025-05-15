@@ -418,5 +418,15 @@
       "regionId": 1,
       "city": "GOIANIA"
     }
+  ],
+  "2025-05-15": [
+    {
+      "regionId": 3,
+      "city": "OSLO"
+    },
+    {
+      "regionId": 5,
+      "city": "KINSHASA"
+    }
   ]
 }
