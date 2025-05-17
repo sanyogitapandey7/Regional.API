@@ -438,5 +438,15 @@
       "regionId": 2,
       "city": "ALRAYYAN"
     }
+  ],
+  "2025-05-17": [
+    {
+      "regionId": 3,
+      "city": "MARSEILLE"
+    },
+    {
+      "regionId": 2,
+      "city": "NOVOSIBIRSK"
+    }
   ]
 }
