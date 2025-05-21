@@ -478,5 +478,15 @@
       "regionId": 4,
       "city": "PESHAWAR"
     }
+  ],
+  "2025-05-21": [
+    {
+      "regionId": 2,
+      "city": "NOUAKCHOTT"
+    },
+    {
+      "regionId": 4,
+      "city": "ANSHAN"
+    }
   ]
 }
