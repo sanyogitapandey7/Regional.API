@@ -488,5 +488,15 @@
       "regionId": 4,
       "city": "ANSHAN"
     }
+  ],
+  "2025-05-22": [
+    {
+      "regionId": 1,
+      "city": "AGUASCALIENTES"
+    },
+    {
+      "regionId": 2,
+      "city": "KHARKIV"
+    }
   ]
 }
