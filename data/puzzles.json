@@ -498,5 +498,15 @@
       "regionId": 2,
       "city": "KHARKIV"
     }
+  ],
+  "2025-05-23": [
+    {
+      "regionId": 2,
+      "city": "KIEV"
+    },
+    {
+      "regionId": 4,
+      "city": "XIONGAN"
+    }
   ]
 }
