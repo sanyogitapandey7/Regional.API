@@ -528,5 +528,15 @@
       "regionId": 2,
       "city": "TELAVIV"
     }
+  ],
+  "2025-05-26": [
+    {
+      "regionId": 2,
+      "city": "KUWAITCITY"
+    },
+    {
+      "regionId": 5,
+      "city": "KUMASI"
+    }
   ]
 }
