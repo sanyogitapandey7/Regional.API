@@ -538,5 +538,15 @@
       "regionId": 5,
       "city": "KUMASI"
     }
+  ],
+  "2025-05-27": [
+    {
+      "regionId": 3,
+      "city": "HELSINKI"
+    },
+    {
+      "regionId": 1,
+      "city": "GRANDESAOLUIS"
+    }
   ]
 }
