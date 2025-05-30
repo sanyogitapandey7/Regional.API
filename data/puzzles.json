@@ -568,5 +568,15 @@
       "regionId": 2,
       "city": "ODESA"
     }
+  ],
+  "2025-05-30": [
+    {
+      "regionId": 3,
+      "city": "HELSINKI"
+    },
+    {
+      "regionId": 1,
+      "city": "CHIHUAHUA"
+    }
   ]
 }
