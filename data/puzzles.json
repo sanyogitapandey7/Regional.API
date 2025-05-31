@@ -578,5 +578,15 @@
       "regionId": 1,
       "city": "CHIHUAHUA"
     }
+  ],
+  "2025-05-31": [
+    {
+      "regionId": 2,
+      "city": "ANKARA"
+    },
+    {
+      "regionId": 5,
+      "city": "ZANZIBAR"
+    }
   ]
 }
