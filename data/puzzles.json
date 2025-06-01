@@ -588,5 +588,15 @@
       "regionId": 5,
       "city": "ZANZIBAR"
     }
+  ],
+  "2025-06-01": [
+    {
+      "regionId": 4,
+      "city": "ASANSOL"
+    },
+    {
+      "regionId": 2,
+      "city": "KAZAN"
+    }
   ]
 }
