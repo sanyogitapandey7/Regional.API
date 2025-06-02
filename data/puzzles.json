@@ -598,5 +598,15 @@
       "regionId": 2,
       "city": "KAZAN"
     }
+  ],
+  "2025-06-02": [
+    {
+      "regionId": 4,
+      "city": "BIKANER"
+    },
+    {
+      "regionId": 3,
+      "city": "ROTTERDAM"
+    }
   ]
 }
