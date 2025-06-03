@@ -608,5 +608,15 @@
       "regionId": 3,
       "city": "ROTTERDAM"
     }
+  ],
+  "2025-06-03": [
+    {
+      "regionId": 5,
+      "city": "DURBAN"
+    },
+    {
+      "regionId": 4,
+      "city": "GWANGJU"
+    }
   ]
 }
