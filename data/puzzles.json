@@ -618,5 +618,15 @@
       "regionId": 4,
       "city": "GWANGJU"
     }
+  ],
+  "2025-06-04": [
+    {
+      "regionId": 1,
+      "city": "PORTAUPRINCE"
+    },
+    {
+      "regionId": 2,
+      "city": "SAMARA"
+    }
   ]
 }
