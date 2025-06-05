@@ -628,5 +628,15 @@
       "regionId": 2,
       "city": "SAMARA"
     }
+  ],
+  "2025-06-05": [
+    {
+      "regionId": 1,
+      "city": "TIJUANA"
+    },
+    {
+      "regionId": 5,
+      "city": "NAMPULA"
+    }
   ]
 }
