@@ -648,5 +648,15 @@
       "regionId": 1,
       "city": "CULIACAN"
     }
+  ],
+  "2025-06-07": [
+    {
+      "regionId": 4,
+      "city": "XIANGYANG"
+    },
+    {
+      "regionId": 5,
+      "city": "DAKAR"
+    }
   ]
 }
