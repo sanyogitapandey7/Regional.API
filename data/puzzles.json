@@ -678,5 +678,15 @@
       "regionId": 2,
       "city": "KONYA"
     }
+  ],
+  "2025-06-10": [
+    {
+      "regionId": 5,
+      "city": "KIGALI"
+    },
+    {
+      "regionId": 4,
+      "city": "YUNCHENG"
+    }
   ]
 }
