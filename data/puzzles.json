@@ -688,5 +688,15 @@
       "regionId": 4,
       "city": "YUNCHENG"
     }
+  ],
+  "2025-06-11": [
+    {
+      "regionId": 3,
+      "city": "ZURICH"
+    },
+    {
+      "regionId": 4,
+      "city": "ZHAOQING"
+    }
   ]
 }
