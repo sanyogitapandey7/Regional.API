@@ -698,5 +698,15 @@
       "regionId": 4,
       "city": "ZHAOQING"
     }
+  ],
+  "2025-06-12": [
+    {
+      "regionId": 2,
+      "city": "KRASNOYARSK"
+    },
+    {
+      "regionId": 1,
+      "city": "RECIFE"
+    }
   ]
 }
