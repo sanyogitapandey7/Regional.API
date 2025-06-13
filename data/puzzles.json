@@ -708,5 +708,15 @@
       "regionId": 1,
       "city": "RECIFE"
     }
+  ],
+  "2025-06-13": [
+    {
+      "regionId": 1,
+      "city": "VALPARAISO"
+    },
+    {
+      "regionId": 5,
+      "city": "MOMBASA"
+    }
   ]
 }
