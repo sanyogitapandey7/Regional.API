@@ -718,5 +718,15 @@
       "regionId": 5,
       "city": "MOMBASA"
     }
+  ],
+  "2025-06-14": [
+    {
+      "regionId": 3,
+      "city": "BERLIN"
+    },
+    {
+      "regionId": 1,
+      "city": "PORTOALEGRE"
+    }
   ]
 }
