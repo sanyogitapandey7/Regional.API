@@ -728,5 +728,15 @@
       "regionId": 1,
       "city": "PORTOALEGRE"
     }
+  ],
+  "2025-06-15": [
+    {
+      "regionId": 5,
+      "city": "LOME"
+    },
+    {
+      "regionId": 1,
+      "city": "ASUNCION"
+    }
   ]
 }
