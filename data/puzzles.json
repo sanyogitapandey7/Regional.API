@@ -768,5 +768,15 @@
       "regionId": 5,
       "city": "ANTANANARIVO"
     }
+  ],
+  "2025-06-19": [
+    {
+      "regionId": 5,
+      "city": "LUBANGO"
+    },
+    {
+      "regionId": 3,
+      "city": "FRANKFURT"
+    }
   ]
 }
