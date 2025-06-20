@@ -778,5 +778,15 @@
       "regionId": 3,
       "city": "FRANKFURT"
     }
+  ],
+  "2025-06-20": [
+    {
+      "regionId": 1,
+      "city": "GRANDEVITORIA"
+    },
+    {
+      "regionId": 2,
+      "city": "TBILISI"
+    }
   ]
 }
