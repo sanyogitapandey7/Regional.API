@@ -788,5 +788,15 @@
       "regionId": 2,
       "city": "TBILISI"
     }
+  ],
+  "2025-06-21": [
+    {
+      "regionId": 4,
+      "city": "CHANGSHU"
+    },
+    {
+      "regionId": 1,
+      "city": "CUERNAVACA"
+    }
   ]
 }
