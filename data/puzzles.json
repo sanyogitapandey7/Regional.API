@@ -798,5 +798,15 @@
       "regionId": 1,
       "city": "CUERNAVACA"
     }
+  ],
+  "2025-06-22": [
+    {
+      "regionId": 2,
+      "city": "NAJAF"
+    },
+    {
+      "regionId": 1,
+      "city": "MATURIN"
+    }
   ]
 }
