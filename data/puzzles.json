@@ -808,5 +808,15 @@
       "regionId": 1,
       "city": "MATURIN"
     }
+  ],
+  "2025-06-23": [
+    {
+      "regionId": 2,
+      "city": "IZMIR"
+    },
+    {
+      "regionId": 3,
+      "city": "MUNICH"
+    }
   ]
 }
