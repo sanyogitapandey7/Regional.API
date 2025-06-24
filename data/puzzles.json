@@ -818,5 +818,15 @@
       "regionId": 3,
       "city": "MUNICH"
     }
+  ],
+  "2025-06-24": [
+    {
+      "regionId": 4,
+      "city": "SHAOXING"
+    },
+    {
+      "regionId": 5,
+      "city": "OUAGADOUGOU"
+    }
   ]
 }
