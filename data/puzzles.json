@@ -828,5 +828,15 @@
       "regionId": 5,
       "city": "OUAGADOUGOU"
     }
+  ],
+  "2025-06-25": [
+    {
+      "regionId": 2,
+      "city": "BAGHDAD"
+    },
+    {
+      "regionId": 3,
+      "city": "FRANKFURT"
+    }
   ]
 }
