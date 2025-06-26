@@ -838,5 +838,15 @@
       "regionId": 3,
       "city": "FRANKFURT"
     }
+  ],
+  "2025-06-26": [
+    {
+      "regionId": 1,
+      "city": "GRANDEVITORIA"
+    },
+    {
+      "regionId": 5,
+      "city": "KADUNA"
+    }
   ]
 }
