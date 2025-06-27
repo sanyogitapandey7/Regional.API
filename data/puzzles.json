@@ -848,5 +848,15 @@
       "regionId": 5,
       "city": "KADUNA"
     }
+  ],
+  "2025-06-27": [
+    {
+      "regionId": 5,
+      "city": "ENUGU"
+    },
+    {
+      "regionId": 1,
+      "city": "FORTALEZA"
+    }
   ]
 }
