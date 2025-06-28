@@ -858,5 +858,15 @@
       "regionId": 1,
       "city": "FORTALEZA"
     }
+  ],
+  "2025-06-28": [
+    {
+      "regionId": 1,
+      "city": "CARACAS"
+    },
+    {
+      "regionId": 4,
+      "city": "TIANSHUI"
+    }
   ]
 }
