@@ -868,5 +868,15 @@
       "regionId": 4,
       "city": "TIANSHUI"
     }
+  ],
+  "2025-06-29": [
+    {
+      "regionId": 3,
+      "city": "AMSTERDAM"
+    },
+    {
+      "regionId": 1,
+      "city": "BUENOSAIRES"
+    }
   ]
 }
