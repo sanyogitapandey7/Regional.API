@@ -878,5 +878,15 @@
       "regionId": 1,
       "city": "BUENOSAIRES"
     }
+  ],
+  "2025-06-30": [
+    {
+      "regionId": 4,
+      "city": "GAOMI"
+    },
+    {
+      "regionId": 1,
+      "city": "SANDIEGO"
+    }
   ]
 }
