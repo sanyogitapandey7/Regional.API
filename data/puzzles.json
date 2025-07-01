@@ -888,5 +888,15 @@
       "regionId": 1,
       "city": "SANDIEGO"
     }
+  ],
+  "2025-07-01": [
+    {
+      "regionId": 2,
+      "city": "SAMARA"
+    },
+    {
+      "regionId": 1,
+      "city": "BARQUISIMETO"
+    }
   ]
 }
