@@ -898,5 +898,15 @@
       "regionId": 1,
       "city": "BARQUISIMETO"
     }
+  ],
+  "2025-07-02": [
+    {
+      "regionId": 3,
+      "city": "ATHENS"
+    },
+    {
+      "regionId": 1,
+      "city": "CUERNAVACA"
+    }
   ]
 }
