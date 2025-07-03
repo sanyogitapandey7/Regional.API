@@ -908,5 +908,15 @@
       "regionId": 1,
       "city": "CUERNAVACA"
     }
+  ],
+  "2025-07-03": [
+    {
+      "regionId": 3,
+      "city": "ZURICH"
+    },
+    {
+      "regionId": 1,
+      "city": "SANJOSE"
+    }
   ]
 }
