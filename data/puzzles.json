@@ -918,5 +918,15 @@
       "regionId": 1,
       "city": "SANJOSE"
     }
+  ],
+  "2025-07-04": [
+    {
+      "regionId": 1,
+      "city": "MANAGUA"
+    },
+    {
+      "regionId": 3,
+      "city": "COLOGNE"
+    }
   ]
 }
