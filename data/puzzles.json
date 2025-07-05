@@ -928,5 +928,15 @@
       "regionId": 3,
       "city": "COLOGNE"
     }
+  ],
+  "2025-07-05": [
+    {
+      "regionId": 3,
+      "city": "BERGAMO"
+    },
+    {
+      "regionId": 2,
+      "city": "SAMARA"
+    }
   ]
 }
