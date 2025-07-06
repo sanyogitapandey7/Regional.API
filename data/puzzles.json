@@ -938,5 +938,15 @@
       "regionId": 2,
       "city": "SAMARA"
     }
+  ],
+  "2025-07-06": [
+    {
+      "regionId": 3,
+      "city": "COPENHAGEN"
+    },
+    {
+      "regionId": 4,
+      "city": "DASMARINAS"
+    }
   ]
 }
