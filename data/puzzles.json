@@ -958,5 +958,15 @@
       "regionId": 3,
       "city": "MUNICH"
     }
+  ],
+  "2025-07-08": [
+    {
+      "regionId": 1,
+      "city": "OTTAWA"
+    },
+    {
+      "regionId": 4,
+      "city": "DONGYING"
+    }
   ]
 }
