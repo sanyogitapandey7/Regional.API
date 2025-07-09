@@ -968,5 +968,15 @@
       "regionId": 4,
       "city": "DONGYING"
     }
+  ],
+  "2025-07-09": [
+    {
+      "regionId": 5,
+      "city": "KISANGANI"
+    },
+    {
+      "regionId": 1,
+      "city": "SALVADOR"
+    }
   ]
 }
