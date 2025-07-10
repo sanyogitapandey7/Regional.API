@@ -978,5 +978,15 @@
       "regionId": 1,
       "city": "SALVADOR"
     }
+  ],
+  "2025-07-10": [
+    {
+      "regionId": 1,
+      "city": "SANDIEGO"
+    },
+    {
+      "regionId": 5,
+      "city": "POINTENOIRE"
+    }
   ]
 }
