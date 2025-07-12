@@ -998,5 +998,15 @@
       "regionId": 4,
       "city": "JABALPUR"
     }
+  ],
+  "2025-07-12": [
+    {
+      "regionId": 1,
+      "city": "SANTIAGO"
+    },
+    {
+      "regionId": 2,
+      "city": "NYALA"
+    }
   ]
 }
