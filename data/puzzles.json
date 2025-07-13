@@ -1008,5 +1008,15 @@
       "regionId": 2,
       "city": "NYALA"
     }
+  ],
+  "2025-07-13": [
+    {
+      "regionId": 3,
+      "city": "LILLE"
+    },
+    {
+      "regionId": 4,
+      "city": "NAGPUR"
+    }
   ]
 }
