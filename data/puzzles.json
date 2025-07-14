@@ -1018,5 +1018,15 @@
       "regionId": 4,
       "city": "NAGPUR"
     }
+  ],
+  "2025-07-14": [
+    {
+      "regionId": 1,
+      "city": "LOSANGELES"
+    },
+    {
+      "regionId": 3,
+      "city": "ROTTERDAM"
+    }
   ]
 }
