@@ -1028,5 +1028,15 @@
       "regionId": 3,
       "city": "ROTTERDAM"
     }
+  ],
+  "2025-07-15": [
+    {
+      "regionId": 2,
+      "city": "TBILISI"
+    },
+    {
+      "regionId": 5,
+      "city": "SEKONDITAKORADI"
+    }
   ]
 }
