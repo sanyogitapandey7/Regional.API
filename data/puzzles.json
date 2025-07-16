@@ -1038,5 +1038,15 @@
       "regionId": 5,
       "city": "SEKONDITAKORADI"
     }
+  ],
+  "2025-07-16": [
+    {
+      "regionId": 1,
+      "city": "CALI"
+    },
+    {
+      "regionId": 5,
+      "city": "POINTENOIRE"
+    }
   ]
 }
