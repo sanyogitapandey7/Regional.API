@@ -1048,5 +1048,15 @@
       "regionId": 5,
       "city": "POINTENOIRE"
     }
+  ],
+  "2025-07-17": [
+    {
+      "regionId": 1,
+      "city": "AGUASCALIENTES"
+    },
+    {
+      "regionId": 4,
+      "city": "BIENHOA"
+    }
   ]
 }
