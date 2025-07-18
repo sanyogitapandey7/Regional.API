@@ -1058,5 +1058,15 @@
       "regionId": 4,
       "city": "BIENHOA"
     }
+  ],
+  "2025-07-18": [
+    {
+      "regionId": 5,
+      "city": "NNEWI"
+    },
+    {
+      "regionId": 4,
+      "city": "YIBIN"
+    }
   ]
 }
