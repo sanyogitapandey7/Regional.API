@@ -1068,5 +1068,15 @@
       "regionId": 4,
       "city": "YIBIN"
     }
+  ],
+  "2025-07-19": [
+    {
+      "regionId": 1,
+      "city": "SANTIAGO"
+    },
+    {
+      "regionId": 3,
+      "city": "TOULOUSE"
+    }
   ]
 }
