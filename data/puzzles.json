@@ -1078,5 +1078,15 @@
       "regionId": 3,
       "city": "TOULOUSE"
     }
+  ],
+  "2025-07-20": [
+    {
+      "regionId": 2,
+      "city": "GEBZE"
+    },
+    {
+      "regionId": 4,
+      "city": "LIUAN"
+    }
   ]
 }
