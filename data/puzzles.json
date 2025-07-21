@@ -1088,5 +1088,15 @@
       "regionId": 4,
       "city": "LIUAN"
     }
+  ],
+  "2025-07-21": [
+    {
+      "regionId": 4,
+      "city": "GUNTUR"
+    },
+    {
+      "regionId": 1,
+      "city": "AGUASCALIENTES"
+    }
   ]
 }
