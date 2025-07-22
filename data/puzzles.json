@@ -1098,5 +1098,15 @@
       "regionId": 1,
       "city": "AGUASCALIENTES"
     }
+  ],
+  "2025-07-22": [
+    {
+      "regionId": 3,
+      "city": "NICE"
+    },
+    {
+      "regionId": 4,
+      "city": "QUETTA"
+    }
   ]
 }
