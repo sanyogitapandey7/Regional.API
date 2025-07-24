@@ -1118,5 +1118,15 @@
       "regionId": 4,
       "city": "GORAKHPUR"
     }
+  ],
+  "2025-07-24": [
+    {
+      "regionId": 4,
+      "city": "ZHUMADIAN"
+    },
+    {
+      "regionId": 3,
+      "city": "BERGAMO"
+    }
   ]
 }
