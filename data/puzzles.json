@@ -1128,5 +1128,15 @@
       "regionId": 3,
       "city": "BERGAMO"
     }
+  ],
+  "2025-07-25": [
+    {
+      "regionId": 1,
+      "city": "BUENOSAIRES"
+    },
+    {
+      "regionId": 4,
+      "city": "XIONGAN"
+    }
   ]
 }
