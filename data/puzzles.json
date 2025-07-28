@@ -1158,5 +1158,15 @@
       "regionId": 1,
       "city": "SANANTONIO"
     }
+  ],
+  "2025-07-28": [
+    {
+      "regionId": 3,
+      "city": "LYON"
+    },
+    {
+      "regionId": 2,
+      "city": "BISHKEK"
+    }
   ]
 }
