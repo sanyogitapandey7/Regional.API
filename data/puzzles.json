@@ -1168,5 +1168,15 @@
       "regionId": 2,
       "city": "BISHKEK"
     }
+  ],
+  "2025-07-29": [
+    {
+      "regionId": 4,
+      "city": "QINHUANGDAO"
+    },
+    {
+      "regionId": 3,
+      "city": "LYON"
+    }
   ]
 }
