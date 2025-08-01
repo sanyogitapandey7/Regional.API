@@ -1198,5 +1198,15 @@
       "regionId": 5,
       "city": "UYO"
     }
+  ],
+  "2025-08-01": [
+    {
+      "regionId": 3,
+      "city": "LONDON"
+    },
+    {
+      "regionId": 2,
+      "city": "ALMATY"
+    }
   ]
 }
