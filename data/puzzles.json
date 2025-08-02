@@ -1208,5 +1208,15 @@
       "regionId": 2,
       "city": "ALMATY"
     }
+  ],
+  "2025-08-02": [
+    {
+      "regionId": 4,
+      "city": "VIJAYAWADA"
+    },
+    {
+      "regionId": 3,
+      "city": "WESTYORKSHIRE"
+    }
   ]
 }
