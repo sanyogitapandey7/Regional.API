@@ -1218,5 +1218,15 @@
       "regionId": 3,
       "city": "WESTYORKSHIRE"
     }
+  ],
+  "2025-08-03": [
+    {
+      "regionId": 4,
+      "city": "NIIGATA"
+    },
+    {
+      "regionId": 3,
+      "city": "ROME"
+    }
   ]
 }
