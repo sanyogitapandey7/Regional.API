@@ -1228,5 +1228,15 @@
       "regionId": 3,
       "city": "ROME"
     }
+  ],
+  "2025-08-04": [
+    {
+      "regionId": 2,
+      "city": "AGADIR"
+    },
+    {
+      "regionId": 5,
+      "city": "LAGOS"
+    }
   ]
 }
