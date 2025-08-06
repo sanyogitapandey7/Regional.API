@@ -1248,5 +1248,15 @@
       "regionId": 2,
       "city": "WARSAW"
     }
+  ],
+  "2025-08-06": [
+    {
+      "regionId": 4,
+      "city": "CHANGSHA"
+    },
+    {
+      "regionId": 3,
+      "city": "MANCHESTER"
+    }
   ]
 }
