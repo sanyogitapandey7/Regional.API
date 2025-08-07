@@ -1258,5 +1258,15 @@
       "regionId": 3,
       "city": "MANCHESTER"
     }
+  ],
+  "2025-08-07": [
+    {
+      "regionId": 5,
+      "city": "FREETOWN"
+    },
+    {
+      "regionId": 2,
+      "city": "NIZHNIYNOVGOROD"
+    }
   ]
 }
