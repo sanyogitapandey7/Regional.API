@@ -1268,5 +1268,15 @@
       "regionId": 2,
       "city": "NIZHNIYNOVGOROD"
     }
+  ],
+  "2025-08-08": [
+    {
+      "regionId": 4,
+      "city": "ZIGONG"
+    },
+    {
+      "regionId": 2,
+      "city": "TAIZ"
+    }
   ]
 }
