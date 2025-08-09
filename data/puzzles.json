@@ -1278,5 +1278,15 @@
       "regionId": 2,
       "city": "TAIZ"
     }
+  ],
+  "2025-08-09": [
+    {
+      "regionId": 3,
+      "city": "ROME"
+    },
+    {
+      "regionId": 2,
+      "city": "BASRA"
+    }
   ]
 }
