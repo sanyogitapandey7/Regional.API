@@ -1288,5 +1288,15 @@
       "regionId": 2,
       "city": "BASRA"
     }
+  ],
+  "2025-08-10": [
+    {
+      "regionId": 4,
+      "city": "KATHMANDU"
+    },
+    {
+      "regionId": 2,
+      "city": "TRIPOLI"
+    }
   ]
 }
