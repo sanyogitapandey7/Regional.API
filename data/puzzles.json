@@ -1308,5 +1308,15 @@
       "regionId": 1,
       "city": "TEGUCIGALPA"
     }
+  ],
+  "2025-08-12": [
+    {
+      "regionId": 1,
+      "city": "CONCEPCION"
+    },
+    {
+      "regionId": 2,
+      "city": "NIZHNIYNOVGOROD"
+    }
   ]
 }
