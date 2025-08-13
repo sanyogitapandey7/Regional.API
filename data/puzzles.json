@@ -1318,5 +1318,15 @@
       "regionId": 2,
       "city": "NIZHNIYNOVGOROD"
     }
+  ],
+  "2025-08-13": [
+    {
+      "regionId": 4,
+      "city": "WEIHAI"
+    },
+    {
+      "regionId": 3,
+      "city": "ATHENS"
+    }
   ]
 }
