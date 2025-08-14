@@ -1328,5 +1328,15 @@
       "regionId": 3,
       "city": "ATHENS"
     }
+  ],
+  "2025-08-14": [
+    {
+      "regionId": 2,
+      "city": "MERSIN"
+    },
+    {
+      "regionId": 4,
+      "city": "TAIANSHANDONG"
+    }
   ]
 }
