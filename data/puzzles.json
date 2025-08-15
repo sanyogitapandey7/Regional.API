@@ -1338,5 +1338,15 @@
       "regionId": 4,
       "city": "TAIANSHANDONG"
     }
+  ],
+  "2025-08-15": [
+    {
+      "regionId": 4,
+      "city": "JIAMUSI"
+    },
+    {
+      "regionId": 3,
+      "city": "NICE"
+    }
   ]
 }
