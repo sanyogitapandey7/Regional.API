@@ -1348,5 +1348,15 @@
       "regionId": 3,
       "city": "NICE"
     }
+  ],
+  "2025-08-16": [
+    {
+      "regionId": 5,
+      "city": "MALANJE"
+    },
+    {
+      "regionId": 2,
+      "city": "AMMAN"
+    }
   ]
 }
