@@ -1368,5 +1368,15 @@
       "regionId": 1,
       "city": "QUERETARO"
     }
+  ],
+  "2025-08-18": [
+    {
+      "regionId": 3,
+      "city": "PARIS"
+    },
+    {
+      "regionId": 1,
+      "city": "REYNOSA"
+    }
   ]
 }
