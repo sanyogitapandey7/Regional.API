@@ -1378,5 +1378,15 @@
       "regionId": 1,
       "city": "REYNOSA"
     }
+  ],
+  "2025-08-19": [
+    {
+      "regionId": 1,
+      "city": "CHIHUAHUA"
+    },
+    {
+      "regionId": 5,
+      "city": "LUBUMBASHI"
+    }
   ]
 }
