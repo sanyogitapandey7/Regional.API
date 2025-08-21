@@ -1398,5 +1398,15 @@
       "regionId": 2,
       "city": "RABAT"
     }
+  ],
+  "2025-08-21": [
+    {
+      "regionId": 1,
+      "city": "SALVADOR"
+    },
+    {
+      "regionId": 5,
+      "city": "IBADAN"
+    }
   ]
 }
