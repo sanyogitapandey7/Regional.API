@@ -1428,5 +1428,15 @@
       "regionId": 1,
       "city": "LIMA"
     }
+  ],
+  "2025-08-24": [
+    {
+      "regionId": 5,
+      "city": "ADDISABABA"
+    },
+    {
+      "regionId": 2,
+      "city": "HOMS"
+    }
   ]
 }
