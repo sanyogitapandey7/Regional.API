@@ -1438,5 +1438,15 @@
       "regionId": 2,
       "city": "HOMS"
     }
+  ],
+  "2025-08-25": [
+    {
+      "regionId": 3,
+      "city": "LIVERPOOL"
+    },
+    {
+      "regionId": 2,
+      "city": "TELAVIV"
+    }
   ]
 }
