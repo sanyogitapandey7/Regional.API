@@ -1448,5 +1448,15 @@
       "regionId": 2,
       "city": "TELAVIV"
     }
+  ],
+  "2025-08-26": [
+    {
+      "regionId": 5,
+      "city": "GOMA"
+    },
+    {
+      "regionId": 1,
+      "city": "BELOHORIZONTE"
+    }
   ]
 }
