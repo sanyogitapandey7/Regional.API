@@ -1458,5 +1458,15 @@
       "regionId": 1,
       "city": "BELOHORIZONTE"
     }
+  ],
+  "2025-08-27": [
+    {
+      "regionId": 4,
+      "city": "KATHMANDU"
+    },
+    {
+      "regionId": 1,
+      "city": "SANPEDROSULA"
+    }
   ]
 }
