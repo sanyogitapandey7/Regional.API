@@ -1468,5 +1468,15 @@
       "regionId": 1,
       "city": "SANPEDROSULA"
     }
+  ],
+  "2025-08-28": [
+    {
+      "regionId": 3,
+      "city": "VIENNA"
+    },
+    {
+      "regionId": 2,
+      "city": "KRASNOYARSK"
+    }
   ]
 }
