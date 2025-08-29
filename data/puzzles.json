@@ -1478,5 +1478,15 @@
       "regionId": 2,
       "city": "KRASNOYARSK"
     }
+  ],
+  "2025-08-29": [
+    {
+      "regionId": 4,
+      "city": "BAREILLY"
+    },
+    {
+      "regionId": 3,
+      "city": "LONDON"
+    }
   ]
 }
