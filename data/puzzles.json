@@ -1488,5 +1488,15 @@
       "regionId": 3,
       "city": "LONDON"
     }
+  ],
+  "2025-08-30": [
+    {
+      "regionId": 5,
+      "city": "MOGADISHU"
+    },
+    {
+      "regionId": 1,
+      "city": "GUADALAJARA"
+    }
   ]
 }
