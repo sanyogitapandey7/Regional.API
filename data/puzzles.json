@@ -1498,5 +1498,15 @@
       "regionId": 1,
       "city": "GUADALAJARA"
     }
+  ],
+  "2025-08-31": [
+    {
+      "regionId": 2,
+      "city": "ADEN"
+    },
+    {
+      "regionId": 5,
+      "city": "LUSAKA"
+    }
   ]
 }
