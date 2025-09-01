@@ -1508,5 +1508,15 @@
       "regionId": 5,
       "city": "LUSAKA"
     }
+  ],
+  "2025-09-01": [
+    {
+      "regionId": 4,
+      "city": "BAHAWALPUR"
+    },
+    {
+      "regionId": 2,
+      "city": "ISTANBUL"
+    }
   ]
 }
