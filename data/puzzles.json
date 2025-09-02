@@ -1518,5 +1518,15 @@
       "regionId": 2,
       "city": "ISTANBUL"
     }
+  ],
+  "2025-09-02": [
+    {
+      "regionId": 2,
+      "city": "ASTANA"
+    },
+    {
+      "regionId": 5,
+      "city": "BANGUI"
+    }
   ]
 }
