@@ -1528,5 +1528,15 @@
       "regionId": 5,
       "city": "BANGUI"
     }
+  ],
+  "2025-09-03": [
+    {
+      "regionId": 5,
+      "city": "NNEWI"
+    },
+    {
+      "regionId": 1,
+      "city": "FLORIANOPOLIS"
+    }
   ]
 }
