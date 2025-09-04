@@ -1538,5 +1538,15 @@
       "regionId": 1,
       "city": "FLORIANOPOLIS"
     }
+  ],
+  "2025-09-04": [
+    {
+      "regionId": 4,
+      "city": "BUSAN"
+    },
+    {
+      "regionId": 5,
+      "city": "ENUGU"
+    }
   ]
 }
