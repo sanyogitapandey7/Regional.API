@@ -1558,5 +1558,15 @@
       "regionId": 2,
       "city": "ROSTOVONDON"
     }
+  ],
+  "2025-09-06": [
+    {
+      "regionId": 4,
+      "city": "PALEMBANG"
+    },
+    {
+      "regionId": 2,
+      "city": "ABUDHABI"
+    }
   ]
 }
