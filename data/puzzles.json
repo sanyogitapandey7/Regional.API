@@ -1568,5 +1568,15 @@
       "regionId": 2,
       "city": "ABUDHABI"
     }
+  ],
+  "2025-09-07": [
+    {
+      "regionId": 2,
+      "city": "ASHGABAT"
+    },
+    {
+      "regionId": 4,
+      "city": "CHANGSHA"
+    }
   ]
 }
