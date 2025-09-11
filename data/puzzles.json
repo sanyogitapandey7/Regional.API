@@ -1608,5 +1608,15 @@
       "regionId": 1,
       "city": "VILLAHERMOSA"
     }
+  ],
+  "2025-09-11": [
+    {
+      "regionId": 2,
+      "city": "BUCHAREST"
+    },
+    {
+      "regionId": 4,
+      "city": "AMRITSAR"
+    }
   ]
 }
