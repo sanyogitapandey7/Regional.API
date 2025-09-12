@@ -1618,5 +1618,15 @@
       "regionId": 4,
       "city": "AMRITSAR"
     }
+  ],
+  "2025-09-12": [
+    {
+      "regionId": 4,
+      "city": "CUTTACK"
+    },
+    {
+      "regionId": 2,
+      "city": "VORONEZH"
+    }
   ]
 }
