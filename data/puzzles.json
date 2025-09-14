@@ -1638,5 +1638,15 @@
       "regionId": 5,
       "city": "JOS"
     }
+  ],
+  "2025-09-14": [
+    {
+      "regionId": 5,
+      "city": "TAMALE"
+    },
+    {
+      "regionId": 1,
+      "city": "TIJUANA"
+    }
   ]
 }
