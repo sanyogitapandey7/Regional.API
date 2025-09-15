@@ -1648,5 +1648,15 @@
       "regionId": 1,
       "city": "TIJUANA"
     }
+  ],
+  "2025-09-15": [
+    {
+      "regionId": 1,
+      "city": "SAOPAULO"
+    },
+    {
+      "regionId": 5,
+      "city": "ENUGU"
+    }
   ]
 }
