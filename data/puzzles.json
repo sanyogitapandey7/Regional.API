@@ -1658,5 +1658,15 @@
       "regionId": 5,
       "city": "ENUGU"
     }
+  ],
+  "2025-09-16": [
+    {
+      "regionId": 1,
+      "city": "MANAUS"
+    },
+    {
+      "regionId": 5,
+      "city": "ONITSHA"
+    }
   ]
 }
