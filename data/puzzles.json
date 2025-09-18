@@ -1678,5 +1678,15 @@
       "regionId": 1,
       "city": "VALPARAISO"
     }
+  ],
+  "2025-09-18": [
+    {
+      "regionId": 3,
+      "city": "SHEFFIELD"
+    },
+    {
+      "regionId": 1,
+      "city": "MARACAIBO"
+    }
   ]
 }
