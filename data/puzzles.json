@@ -1688,5 +1688,15 @@
       "regionId": 1,
       "city": "MARACAIBO"
     }
+  ],
+  "2025-09-19": [
+    {
+      "regionId": 4,
+      "city": "CHENGDE"
+    },
+    {
+      "regionId": 3,
+      "city": "ATHENS"
+    }
   ]
 }
