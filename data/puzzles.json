@@ -1708,5 +1708,15 @@
       "regionId": 5,
       "city": "WESTRAND"
     }
+  ],
+  "2025-09-21": [
+    {
+      "regionId": 1,
+      "city": "LIMA"
+    },
+    {
+      "regionId": 4,
+      "city": "DALIAN"
+    }
   ]
 }
