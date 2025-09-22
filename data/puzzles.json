@@ -1718,5 +1718,15 @@
       "regionId": 4,
       "city": "DALIAN"
     }
+  ],
+  "2025-09-22": [
+    {
+      "regionId": 5,
+      "city": "POINTENOIRE"
+    },
+    {
+      "regionId": 4,
+      "city": "KABUL"
+    }
   ]
 }
