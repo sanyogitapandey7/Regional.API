@@ -1728,5 +1728,15 @@
       "regionId": 4,
       "city": "KABUL"
     }
+  ],
+  "2025-09-23": [
+    {
+      "regionId": 2,
+      "city": "MOSCOW"
+    },
+    {
+      "regionId": 4,
+      "city": "HANGZHOU"
+    }
   ]
 }
