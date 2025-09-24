@@ -1738,5 +1738,15 @@
       "regionId": 4,
       "city": "HANGZHOU"
     }
+  ],
+  "2025-09-24": [
+    {
+      "regionId": 1,
+      "city": "TORONTO"
+    },
+    {
+      "regionId": 2,
+      "city": "BASRA"
+    }
   ]
 }
