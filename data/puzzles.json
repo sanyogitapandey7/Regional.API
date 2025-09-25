@@ -1748,5 +1748,15 @@
       "regionId": 2,
       "city": "BASRA"
     }
+  ],
+  "2025-09-25": [
+    {
+      "regionId": 2,
+      "city": "TBILISI"
+    },
+    {
+      "regionId": 3,
+      "city": "LYON"
+    }
   ]
 }
