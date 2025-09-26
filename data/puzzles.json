@@ -1758,5 +1758,15 @@
       "regionId": 3,
       "city": "LYON"
     }
+  ],
+  "2025-09-26": [
+    {
+      "regionId": 2,
+      "city": "ALMUBARRAZ"
+    },
+    {
+      "regionId": 3,
+      "city": "BELGRADE"
+    }
   ]
 }
