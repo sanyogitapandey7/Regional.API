@@ -1778,5 +1778,15 @@
       "regionId": 4,
       "city": "KOTTAYAM"
     }
+  ],
+  "2025-09-28": [
+    {
+      "regionId": 5,
+      "city": "ZANZIBAR"
+    },
+    {
+      "regionId": 2,
+      "city": "YEREVAN"
+    }
   ]
 }
