@@ -1798,5 +1798,15 @@
       "regionId": 3,
       "city": "PALERMO"
     }
+  ],
+  "2025-09-30": [
+    {
+      "regionId": 2,
+      "city": "TRIPOLI"
+    },
+    {
+      "regionId": 1,
+      "city": "MEXICALI"
+    }
   ]
 }
