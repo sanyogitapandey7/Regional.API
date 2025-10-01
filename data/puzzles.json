@@ -1808,5 +1808,15 @@
       "regionId": 1,
       "city": "MEXICALI"
     }
+  ],
+  "2025-10-01": [
+    {
+      "regionId": 1,
+      "city": "HOUSTON"
+    },
+    {
+      "regionId": 4,
+      "city": "LINHAI"
+    }
   ]
 }
