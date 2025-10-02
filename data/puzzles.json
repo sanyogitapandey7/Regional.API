@@ -1818,5 +1818,15 @@
       "regionId": 4,
       "city": "LINHAI"
     }
+  ],
+  "2025-10-02": [
+    {
+      "regionId": 4,
+      "city": "JIAXING"
+    },
+    {
+      "regionId": 5,
+      "city": "MATOLA"
+    }
   ]
 }
