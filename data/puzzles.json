@@ -1828,5 +1828,15 @@
       "regionId": 5,
       "city": "MATOLA"
     }
+  ],
+  "2025-10-03": [
+    {
+      "regionId": 5,
+      "city": "MERCA"
+    },
+    {
+      "regionId": 3,
+      "city": "AMSTERDAM"
+    }
   ]
 }
