@@ -1838,5 +1838,15 @@
       "regionId": 3,
       "city": "AMSTERDAM"
     }
+  ],
+  "2025-10-04": [
+    {
+      "regionId": 4,
+      "city": "NEWTAIPEI"
+    },
+    {
+      "regionId": 2,
+      "city": "TRIPOLI"
+    }
   ]
 }
