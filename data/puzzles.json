@@ -1848,5 +1848,15 @@
       "regionId": 2,
       "city": "TRIPOLI"
     }
+  ],
+  "2025-10-05": [
+    {
+      "regionId": 4,
+      "city": "SINGAPORE"
+    },
+    {
+      "regionId": 1,
+      "city": "GOIANIA"
+    }
   ]
 }
