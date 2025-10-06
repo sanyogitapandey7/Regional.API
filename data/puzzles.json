@@ -1858,5 +1858,15 @@
       "regionId": 1,
       "city": "GOIANIA"
     }
+  ],
+  "2025-10-06": [
+    {
+      "regionId": 3,
+      "city": "NOTTINGHAM"
+    },
+    {
+      "regionId": 1,
+      "city": "LAPLATA"
+    }
   ]
 }
