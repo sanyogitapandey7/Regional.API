@@ -1868,5 +1868,15 @@
       "regionId": 1,
       "city": "LAPLATA"
     }
+  ],
+  "2025-10-07": [
+    {
+      "regionId": 3,
+      "city": "PORTO"
+    },
+    {
+      "regionId": 5,
+      "city": "NDJAMENA"
+    }
   ]
 }
