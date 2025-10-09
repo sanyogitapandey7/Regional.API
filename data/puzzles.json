@@ -1888,5 +1888,15 @@
       "regionId": 5,
       "city": "ADDISABABA"
     }
+  ],
+  "2025-10-09": [
+    {
+      "regionId": 2,
+      "city": "DONETSK"
+    },
+    {
+      "regionId": 1,
+      "city": "VALENCIA"
+    }
   ]
 }
