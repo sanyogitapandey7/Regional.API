@@ -1898,5 +1898,15 @@
       "regionId": 1,
       "city": "VALENCIA"
     }
+  ],
+  "2025-10-10": [
+    {
+      "regionId": 5,
+      "city": "BOBODIOULASSO"
+    },
+    {
+      "regionId": 1,
+      "city": "MARACAY"
+    }
   ]
 }
