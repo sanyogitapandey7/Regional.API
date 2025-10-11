@@ -1908,5 +1908,15 @@
       "regionId": 1,
       "city": "MARACAY"
     }
+  ],
+  "2025-10-11": [
+    {
+      "regionId": 3,
+      "city": "TURIN"
+    },
+    {
+      "regionId": 4,
+      "city": "KOTA"
+    }
   ]
 }
