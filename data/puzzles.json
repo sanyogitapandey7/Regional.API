@@ -1918,5 +1918,15 @@
       "regionId": 4,
       "city": "KOTA"
     }
+  ],
+  "2025-10-12": [
+    {
+      "regionId": 1,
+      "city": "SOROCABA"
+    },
+    {
+      "regionId": 5,
+      "city": "TSHIKAPA"
+    }
   ]
 }
