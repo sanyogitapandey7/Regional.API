@@ -1938,5 +1938,15 @@
       "regionId": 3,
       "city": "ATHENS"
     }
+  ],
+  "2025-10-14": [
+    {
+      "regionId": 3,
+      "city": "AMSTERDAM"
+    },
+    {
+      "regionId": 4,
+      "city": "NANJING"
+    }
   ]
 }
