@@ -1948,5 +1948,15 @@
       "regionId": 4,
       "city": "NANJING"
     }
+  ],
+  "2025-10-15": [
+    {
+      "regionId": 2,
+      "city": "TAIZ"
+    },
+    {
+      "regionId": 4,
+      "city": "ASANSOL"
+    }
   ]
 }
