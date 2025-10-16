@@ -1958,5 +1958,15 @@
       "regionId": 4,
       "city": "ASANSOL"
     }
+  ],
+  "2025-10-16": [
+    {
+      "regionId": 2,
+      "city": "JERUSALEM"
+    },
+    {
+      "regionId": 1,
+      "city": "PHOENIX"
+    }
   ]
 }
