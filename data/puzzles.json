@@ -1968,5 +1968,15 @@
       "regionId": 1,
       "city": "PHOENIX"
     }
+  ],
+  "2025-10-17": [
+    {
+      "regionId": 5,
+      "city": "KISANGANI"
+    },
+    {
+      "regionId": 2,
+      "city": "MEDINA"
+    }
   ]
 }
