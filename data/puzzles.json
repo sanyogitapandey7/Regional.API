@@ -1988,5 +1988,15 @@
       "regionId": 3,
       "city": "DUBLIN"
     }
+  ],
+  "2025-10-19": [
+    {
+      "regionId": 2,
+      "city": "BASRA"
+    },
+    {
+      "regionId": 3,
+      "city": "BORDEAUX"
+    }
   ]
 }
