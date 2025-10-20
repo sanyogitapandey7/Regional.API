@@ -1998,5 +1998,15 @@
       "regionId": 3,
       "city": "BORDEAUX"
     }
+  ],
+  "2025-10-20": [
+    {
+      "regionId": 3,
+      "city": "NICE"
+    },
+    {
+      "regionId": 5,
+      "city": "IKORODU"
+    }
   ]
 }
