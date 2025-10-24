@@ -2038,5 +2038,15 @@
       "regionId": 3,
       "city": "LIVERPOOL"
     }
+  ],
+  "2025-10-24": [
+    {
+      "regionId": 3,
+      "city": "LISBON"
+    },
+    {
+      "regionId": 5,
+      "city": "NIAMEY"
+    }
   ]
 }
