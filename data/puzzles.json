@@ -2048,5 +2048,15 @@
       "regionId": 5,
       "city": "NIAMEY"
     }
+  ],
+  "2025-10-25": [
+    {
+      "regionId": 4,
+      "city": "DENPASAR"
+    },
+    {
+      "regionId": 3,
+      "city": "MADRID"
+    }
   ]
 }
