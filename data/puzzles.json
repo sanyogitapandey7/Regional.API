@@ -2068,5 +2068,15 @@
       "regionId": 4,
       "city": "SHAOYANG"
     }
+  ],
+  "2025-10-27": [
+    {
+      "regionId": 1,
+      "city": "CALI"
+    },
+    {
+      "regionId": 4,
+      "city": "GUWAHATI"
+    }
   ]
 }
