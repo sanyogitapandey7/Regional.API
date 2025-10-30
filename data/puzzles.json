@@ -2098,5 +2098,15 @@
       "regionId": 5,
       "city": "MERCA"
     }
+  ],
+  "2025-10-30": [
+    {
+      "regionId": 3,
+      "city": "OSLO"
+    },
+    {
+      "regionId": 2,
+      "city": "AGADIR"
+    }
   ]
 }
