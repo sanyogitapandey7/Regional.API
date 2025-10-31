@@ -2108,5 +2108,15 @@
       "regionId": 2,
       "city": "AGADIR"
     }
+  ],
+  "2025-10-31": [
+    {
+      "regionId": 4,
+      "city": "ULAANBAATAR"
+    },
+    {
+      "regionId": 1,
+      "city": "VANCOUVER"
+    }
   ]
 }
