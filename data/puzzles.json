@@ -2118,5 +2118,15 @@
       "regionId": 1,
       "city": "VANCOUVER"
     }
+  ],
+  "2025-11-01": [
+    {
+      "regionId": 5,
+      "city": "SOSHANGUVE"
+    },
+    {
+      "regionId": 1,
+      "city": "RECIFE"
+    }
   ]
 }
