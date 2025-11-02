@@ -2128,5 +2128,15 @@
       "regionId": 1,
       "city": "RECIFE"
     }
+  ],
+  "2025-11-02": [
+    {
+      "regionId": 2,
+      "city": "ALMUBARRAZ"
+    },
+    {
+      "regionId": 1,
+      "city": "CAMPINAS"
+    }
   ]
 }
