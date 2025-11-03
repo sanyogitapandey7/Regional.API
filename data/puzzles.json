@@ -2138,5 +2138,15 @@
       "regionId": 1,
       "city": "CAMPINAS"
     }
+  ],
+  "2025-11-03": [
+    {
+      "regionId": 2,
+      "city": "CASABLANCA"
+    },
+    {
+      "regionId": 3,
+      "city": "NAPLES"
+    }
   ]
 }
