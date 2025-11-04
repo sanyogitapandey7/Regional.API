@@ -2148,5 +2148,15 @@
       "regionId": 3,
       "city": "NAPLES"
     }
+  ],
+  "2025-11-04": [
+    {
+      "regionId": 1,
+      "city": "PUEBLA"
+    },
+    {
+      "regionId": 5,
+      "city": "MAPUTO"
+    }
   ]
 }
