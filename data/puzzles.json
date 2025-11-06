@@ -2168,5 +2168,15 @@
       "regionId": 5,
       "city": "OUAGADOUGOU"
     }
+  ],
+  "2025-11-06": [
+    {
+      "regionId": 2,
+      "city": "ALMATY"
+    },
+    {
+      "regionId": 5,
+      "city": "ACCRA"
+    }
   ]
 }
