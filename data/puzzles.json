@@ -2178,5 +2178,15 @@
       "regionId": 5,
       "city": "ACCRA"
     }
+  ],
+  "2025-11-07": [
+    {
+      "regionId": 2,
+      "city": "WARSAW"
+    },
+    {
+      "regionId": 4,
+      "city": "YANGJIANG"
+    }
   ]
 }
