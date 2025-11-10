@@ -2208,5 +2208,15 @@
       "regionId": 1,
       "city": "MONTERREY"
     }
+  ],
+  "2025-11-10": [
+    {
+      "regionId": 1,
+      "city": "AUSTIN"
+    },
+    {
+      "regionId": 5,
+      "city": "WARRI"
+    }
   ]
 }
