@@ -2248,5 +2248,15 @@
       "regionId": 1,
       "city": "SANTODOMINGO"
     }
+  ],
+  "2025-11-14": [
+    {
+      "regionId": 2,
+      "city": "YEKATERIBURG"
+    },
+    {
+      "regionId": 4,
+      "city": "KANNUR"
+    }
   ]
 }
