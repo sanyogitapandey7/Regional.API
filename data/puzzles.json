@@ -2298,5 +2298,15 @@
       "regionId": 5,
       "city": "ABIDJAN"
     }
+  ],
+  "2025-11-19": [
+    {
+      "regionId": 2,
+      "city": "BEIRUT"
+    },
+    {
+      "regionId": 1,
+      "city": "XALAPA"
+    }
   ]
 }
