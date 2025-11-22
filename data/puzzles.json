@@ -2328,5 +2328,15 @@
       "regionId": 3,
       "city": "AMSTERDAM"
     }
+  ],
+  "2025-11-22": [
+    {
+      "regionId": 1,
+      "city": "RIBEIRAOPRETO"
+    },
+    {
+      "regionId": 3,
+      "city": "GLASGOW"
+    }
   ]
 }
