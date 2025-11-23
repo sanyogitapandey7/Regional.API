@@ -2338,5 +2338,15 @@
       "regionId": 3,
       "city": "GLASGOW"
     }
+  ],
+  "2025-11-23": [
+    {
+      "regionId": 4,
+      "city": "QUZHOU"
+    },
+    {
+      "regionId": 5,
+      "city": "MAIDUGURI"
+    }
   ]
 }
