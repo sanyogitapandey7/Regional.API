@@ -2348,5 +2348,15 @@
       "regionId": 5,
       "city": "MAIDUGURI"
     }
+  ],
+  "2025-11-24": [
+    {
+      "regionId": 4,
+      "city": "FUZHOUJIANGXI"
+    },
+    {
+      "regionId": 5,
+      "city": "MWANZA"
+    }
   ]
 }
