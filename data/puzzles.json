@@ -2368,5 +2368,15 @@
       "regionId": 1,
       "city": "BRASILIA"
     }
+  ],
+  "2025-11-26": [
+    {
+      "regionId": 2,
+      "city": "KUWAITCITY"
+    },
+    {
+      "regionId": 4,
+      "city": "ESFAHAN"
+    }
   ]
 }
