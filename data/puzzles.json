@@ -2378,5 +2378,15 @@
       "regionId": 4,
       "city": "ESFAHAN"
     }
+  ],
+  "2025-11-27": [
+    {
+      "regionId": 3,
+      "city": "BARCELONA"
+    },
+    {
+      "regionId": 4,
+      "city": "JINGZHOUHUBEI"
+    }
   ]
 }
