@@ -2388,5 +2388,15 @@
       "regionId": 4,
       "city": "JINGZHOUHUBEI"
     }
+  ],
+  "2025-11-28": [
+    {
+      "regionId": 2,
+      "city": "BUCHAREST"
+    },
+    {
+      "regionId": 1,
+      "city": "TRUJILLO"
+    }
   ]
 }
