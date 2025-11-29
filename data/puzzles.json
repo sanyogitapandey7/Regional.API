@@ -2398,5 +2398,15 @@
       "regionId": 1,
       "city": "TRUJILLO"
     }
+  ],
+  "2025-11-29": [
+    {
+      "regionId": 5,
+      "city": "SEKONDITAKORADI"
+    },
+    {
+      "regionId": 2,
+      "city": "MEDINA"
+    }
   ]
 }
