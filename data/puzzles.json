@@ -2418,5 +2418,15 @@
       "regionId": 5,
       "city": "LUBUMBASHI"
     }
+  ],
+  "2025-12-01": [
+    {
+      "regionId": 2,
+      "city": "BISHKEK"
+    },
+    {
+      "regionId": 1,
+      "city": "LAPLATA"
+    }
   ]
 }
