@@ -2428,5 +2428,15 @@
       "regionId": 1,
       "city": "LAPLATA"
     }
+  ],
+  "2025-12-02": [
+    {
+      "regionId": 4,
+      "city": "TONGLING"
+    },
+    {
+      "regionId": 3,
+      "city": "BRUSSELS"
+    }
   ]
 }
