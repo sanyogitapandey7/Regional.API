@@ -2468,5 +2468,15 @@
       "regionId": 1,
       "city": "SANSALVADOR"
     }
+  ],
+  "2025-12-06": [
+    {
+      "regionId": 4,
+      "city": "ZHUZHOU"
+    },
+    {
+      "regionId": 2,
+      "city": "DNIPRO"
+    }
   ]
 }
