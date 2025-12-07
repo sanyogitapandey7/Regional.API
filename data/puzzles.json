@@ -2478,5 +2478,15 @@
       "regionId": 2,
       "city": "DNIPRO"
     }
+  ],
+  "2025-12-07": [
+    {
+      "regionId": 1,
+      "city": "BUENOSAIRES"
+    },
+    {
+      "regionId": 4,
+      "city": "GUIYANG"
+    }
   ]
 }
