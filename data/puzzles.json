@@ -2508,5 +2508,15 @@
       "regionId": 5,
       "city": "KINSHASA"
     }
+  ],
+  "2025-12-10": [
+    {
+      "regionId": 3,
+      "city": "BERLIN"
+    },
+    {
+      "regionId": 4,
+      "city": "XIAOGAN"
+    }
   ]
 }
