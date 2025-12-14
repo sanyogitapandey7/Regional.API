@@ -2548,5 +2548,15 @@
       "regionId": 5,
       "city": "OUAGADOUGOU"
     }
+  ],
+  "2025-12-14": [
+    {
+      "regionId": 1,
+      "city": "ROSARIO"
+    },
+    {
+      "regionId": 2,
+      "city": "NOUAKCHOTT"
+    }
   ]
 }
