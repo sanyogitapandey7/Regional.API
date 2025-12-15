@@ -2558,5 +2558,15 @@
       "regionId": 2,
       "city": "NOUAKCHOTT"
     }
+  ],
+  "2025-12-15": [
+    {
+      "regionId": 2,
+      "city": "TELAVIV"
+    },
+    {
+      "regionId": 3,
+      "city": "BARCELONA"
+    }
   ]
 }
