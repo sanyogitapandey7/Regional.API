@@ -2658,5 +2658,15 @@
       "regionId": 4,
       "city": "PANZHIHUA"
     }
+  ],
+  "2025-12-25": [
+    {
+      "regionId": 3,
+      "city": "TOULOUSE"
+    },
+    {
+      "regionId": 4,
+      "city": "QINHUANGDAO"
+    }
   ]
 }
