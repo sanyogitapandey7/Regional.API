@@ -2678,5 +2678,15 @@
       "regionId": 1,
       "city": "MONTERREY"
     }
+  ],
+  "2025-12-27": [
+    {
+      "regionId": 2,
+      "city": "IBB"
+    },
+    {
+      "regionId": 3,
+      "city": "MADRID"
+    }
   ]
 }
