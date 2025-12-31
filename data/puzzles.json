@@ -2718,5 +2718,15 @@
       "regionId": 2,
       "city": "RABAT"
     }
+  ],
+  "2025-12-31": [
+    {
+      "regionId": 4,
+      "city": "DHANBAD"
+    },
+    {
+      "regionId": 2,
+      "city": "ASTANA"
+    }
   ]
 }
