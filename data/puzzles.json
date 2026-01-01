@@ -2728,5 +2728,15 @@
       "regionId": 2,
       "city": "ASTANA"
     }
+  ],
+  "2026-01-01": [
+    {
+      "regionId": 4,
+      "city": "JOHORBAHRU"
+    },
+    {
+      "regionId": 2,
+      "city": "KRAKOW"
+    }
   ]
 }
