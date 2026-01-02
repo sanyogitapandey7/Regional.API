@@ -2738,5 +2738,15 @@
       "regionId": 2,
       "city": "KRAKOW"
     }
+  ],
+  "2026-01-02": [
+    {
+      "regionId": 5,
+      "city": "KITWE"
+    },
+    {
+      "regionId": 4,
+      "city": "MUZAFFARNAGAR"
+    }
   ]
 }
