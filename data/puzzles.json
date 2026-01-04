@@ -2758,5 +2758,15 @@
       "regionId": 1,
       "city": "SANTIAGO"
     }
+  ],
+  "2026-01-04": [
+    {
+      "regionId": 3,
+      "city": "COLOGNE"
+    },
+    {
+      "regionId": 5,
+      "city": "DURBAN"
+    }
   ]
 }
