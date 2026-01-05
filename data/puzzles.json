@@ -2768,5 +2768,15 @@
       "regionId": 5,
       "city": "DURBAN"
     }
+  ],
+  "2026-01-05": [
+    {
+      "regionId": 4,
+      "city": "SAPPORO"
+    },
+    {
+      "regionId": 3,
+      "city": "MILAN"
+    }
   ]
 }
