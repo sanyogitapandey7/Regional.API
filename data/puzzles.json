@@ -2778,5 +2778,15 @@
       "regionId": 3,
       "city": "MILAN"
     }
+  ],
+  "2026-01-06": [
+    {
+      "regionId": 3,
+      "city": "GLASGOW"
+    },
+    {
+      "regionId": 4,
+      "city": "LUDHIANA"
+    }
   ]
 }
