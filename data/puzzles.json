@@ -2828,5 +2828,15 @@
       "regionId": 4,
       "city": "BOZHOU"
     }
+  ],
+  "2026-01-11": [
+    {
+      "regionId": 1,
+      "city": "MERIDA"
+    },
+    {
+      "regionId": 2,
+      "city": "KHARKIV"
+    }
   ]
 }
