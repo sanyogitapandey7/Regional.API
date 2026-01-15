@@ -2868,5 +2868,15 @@
       "regionId": 2,
       "city": "BISHKEK"
     }
+  ],
+  "2026-01-15": [
+    {
+      "regionId": 1,
+      "city": "JACKSONVILLE"
+    },
+    {
+      "regionId": 2,
+      "city": "ABUDHABI"
+    }
   ]
 }
