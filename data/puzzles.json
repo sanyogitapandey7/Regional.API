@@ -2888,5 +2888,15 @@
       "regionId": 3,
       "city": "ROME"
     }
+  ],
+  "2026-01-17": [
+    {
+      "regionId": 3,
+      "city": "BERLIN"
+    },
+    {
+      "regionId": 4,
+      "city": "TOKYO"
+    }
   ]
 }
