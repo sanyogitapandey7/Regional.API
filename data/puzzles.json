@@ -2898,5 +2898,15 @@
       "regionId": 4,
       "city": "TOKYO"
     }
+  ],
+  "2026-01-18": [
+    {
+      "regionId": 3,
+      "city": "PARIS"
+    },
+    {
+      "regionId": 2,
+      "city": "GAZIANTEP"
+    }
   ]
 }
