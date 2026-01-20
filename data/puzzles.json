@@ -2918,5 +2918,15 @@
       "regionId": 2,
       "city": "BURSAID"
     }
+  ],
+  "2026-01-20": [
+    {
+      "regionId": 2,
+      "city": "MARRAKECH"
+    },
+    {
+      "regionId": 5,
+      "city": "KUMASI"
+    }
   ]
 }
