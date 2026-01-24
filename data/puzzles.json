@@ -2958,5 +2958,15 @@
       "regionId": 2,
       "city": "DUSHANBE"
     }
+  ],
+  "2026-01-24": [
+    {
+      "regionId": 1,
+      "city": "MANAGUA"
+    },
+    {
+      "regionId": 4,
+      "city": "CHANGSHU"
+    }
   ]
 }
