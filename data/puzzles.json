@@ -2968,5 +2968,15 @@
       "regionId": 4,
       "city": "CHANGSHU"
     }
+  ],
+  "2026-01-25": [
+    {
+      "regionId": 2,
+      "city": "ASHGABAT"
+    },
+    {
+      "regionId": 3,
+      "city": "BOLOGNA"
+    }
   ]
 }
