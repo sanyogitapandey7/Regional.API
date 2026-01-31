@@ -3028,5 +3028,15 @@
       "regionId": 4,
       "city": "WUHAN"
     }
+  ],
+  "2026-01-31": [
+    {
+      "regionId": 1,
+      "city": "TEGUCIGALPA"
+    },
+    {
+      "regionId": 2,
+      "city": "YEKATERIBURG"
+    }
   ]
 }
