@@ -3038,5 +3038,15 @@
       "regionId": 2,
       "city": "YEKATERIBURG"
     }
+  ],
+  "2026-02-01": [
+    {
+      "regionId": 3,
+      "city": "LYON"
+    },
+    {
+      "regionId": 2,
+      "city": "KAZAN"
+    }
   ]
 }
