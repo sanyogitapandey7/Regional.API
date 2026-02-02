@@ -3048,5 +3048,15 @@
       "regionId": 2,
       "city": "KAZAN"
     }
+  ],
+  "2026-02-02": [
+    {
+      "regionId": 2,
+      "city": "ALHUDAYDAH"
+    },
+    {
+      "regionId": 5,
+      "city": "MAIDUGURI"
+    }
   ]
 }
