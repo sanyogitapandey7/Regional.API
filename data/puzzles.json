@@ -3068,5 +3068,15 @@
       "regionId": 1,
       "city": "CALI"
     }
+  ],
+  "2026-02-04": [
+    {
+      "regionId": 1,
+      "city": "SANJUAN"
+    },
+    {
+      "regionId": 5,
+      "city": "HARGEYSA"
+    }
   ]
 }
