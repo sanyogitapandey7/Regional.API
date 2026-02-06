@@ -3088,5 +3088,15 @@
       "regionId": 2,
       "city": "SHIMKENT"
     }
+  ],
+  "2026-02-06": [
+    {
+      "regionId": 1,
+      "city": "VALENCIA"
+    },
+    {
+      "regionId": 5,
+      "city": "TSHIKAPA"
+    }
   ]
 }
