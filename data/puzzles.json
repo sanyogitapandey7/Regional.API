@@ -3128,5 +3128,15 @@
       "regionId": 1,
       "city": "QUERETARO"
     }
+  ],
+  "2026-02-10": [
+    {
+      "regionId": 1,
+      "city": "RIODEJANEIRO"
+    },
+    {
+      "regionId": 3,
+      "city": "VALENCIA"
+    }
   ]
 }
