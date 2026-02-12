@@ -3148,5 +3148,15 @@
       "regionId": 1,
       "city": "BRASILIA"
     }
+  ],
+  "2026-02-12": [
+    {
+      "regionId": 5,
+      "city": "BOBODIOULASSO"
+    },
+    {
+      "regionId": 1,
+      "city": "MARACAIBO"
+    }
   ]
 }
