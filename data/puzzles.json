@@ -3168,5 +3168,15 @@
       "regionId": 2,
       "city": "SHARJAH"
     }
+  ],
+  "2026-02-14": [
+    {
+      "regionId": 1,
+      "city": "RIBEIRAOPRETO"
+    },
+    {
+      "regionId": 2,
+      "city": "AGADIR"
+    }
   ]
 }
