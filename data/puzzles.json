@@ -3178,5 +3178,15 @@
       "regionId": 2,
       "city": "AGADIR"
     }
+  ],
+  "2026-02-15": [
+    {
+      "regionId": 2,
+      "city": "WARSAW"
+    },
+    {
+      "regionId": 3,
+      "city": "LISBON"
+    }
   ]
 }
