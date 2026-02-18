@@ -3208,5 +3208,15 @@
       "regionId": 2,
       "city": "UFA"
     }
+  ],
+  "2026-02-18": [
+    {
+      "regionId": 2,
+      "city": "BUCHAREST"
+    },
+    {
+      "regionId": 4,
+      "city": "SAPPORO"
+    }
   ]
 }
