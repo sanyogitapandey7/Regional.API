@@ -3218,5 +3218,15 @@
       "regionId": 4,
       "city": "SAPPORO"
     }
+  ],
+  "2026-02-19": [
+    {
+      "regionId": 1,
+      "city": "REYNOSA"
+    },
+    {
+      "regionId": 3,
+      "city": "GLASGOW"
+    }
   ]
 }
