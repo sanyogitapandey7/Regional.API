@@ -3228,5 +3228,15 @@
       "regionId": 3,
       "city": "GLASGOW"
     }
+  ],
+  "2026-02-20": [
+    {
+      "regionId": 3,
+      "city": "FRANKFURT"
+    },
+    {
+      "regionId": 2,
+      "city": "BISHKEK"
+    }
   ]
 }
