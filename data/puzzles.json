@@ -3238,5 +3238,15 @@
       "regionId": 2,
       "city": "BISHKEK"
     }
+  ],
+  "2026-02-21": [
+    {
+      "regionId": 4,
+      "city": "ZHANGJIAKOU"
+    },
+    {
+      "regionId": 2,
+      "city": "BEIRUT"
+    }
   ]
 }
