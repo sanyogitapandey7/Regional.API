@@ -3268,5 +3268,15 @@
       "regionId": 5,
       "city": "ABIDJAN"
     }
+  ],
+  "2026-02-24": [
+    {
+      "regionId": 3,
+      "city": "ZURICH"
+    },
+    {
+      "regionId": 5,
+      "city": "DARESSALAAM"
+    }
   ]
 }
