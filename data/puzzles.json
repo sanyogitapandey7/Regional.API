@@ -3288,5 +3288,15 @@
       "regionId": 2,
       "city": "BISHKEK"
     }
+  ],
+  "2026-02-26": [
+    {
+      "regionId": 4,
+      "city": "PYONGYANG"
+    },
+    {
+      "regionId": 5,
+      "city": "SEKONDITAKORADI"
+    }
   ]
 }
