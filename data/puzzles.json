@@ -3308,5 +3308,15 @@
       "regionId": 4,
       "city": "XINGHUA"
     }
+  ],
+  "2026-02-28": [
+    {
+      "regionId": 2,
+      "city": "SOFIA"
+    },
+    {
+      "regionId": 3,
+      "city": "LISBON"
+    }
   ]
 }
