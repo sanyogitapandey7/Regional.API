@@ -3318,5 +3318,15 @@
       "regionId": 3,
       "city": "LISBON"
     }
+  ],
+  "2026-03-01": [
+    {
+      "regionId": 2,
+      "city": "KIEV"
+    },
+    {
+      "regionId": 1,
+      "city": "CAMPINAS"
+    }
   ]
 }
