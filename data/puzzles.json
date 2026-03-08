@@ -3388,5 +3388,15 @@
       "regionId": 1,
       "city": "BAIXADASANTISTA"
     }
+  ],
+  "2026-03-08": [
+    {
+      "regionId": 5,
+      "city": "NIAMEY"
+    },
+    {
+      "regionId": 2,
+      "city": "CASABLANCA"
+    }
   ]
 }
