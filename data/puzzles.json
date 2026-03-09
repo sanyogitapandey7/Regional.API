@@ -3398,5 +3398,15 @@
       "regionId": 2,
       "city": "CASABLANCA"
     }
+  ],
+  "2026-03-09": [
+    {
+      "regionId": 5,
+      "city": "UYO"
+    },
+    {
+      "regionId": 2,
+      "city": "CHELYABINSK"
+    }
   ]
 }
