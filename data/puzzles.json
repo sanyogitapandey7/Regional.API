@@ -3408,5 +3408,15 @@
       "regionId": 2,
       "city": "CHELYABINSK"
     }
+  ],
+  "2026-03-10": [
+    {
+      "regionId": 3,
+      "city": "SOUTHAMPTON"
+    },
+    {
+      "regionId": 1,
+      "city": "MENDOZA"
+    }
   ]
 }
