@@ -3468,5 +3468,15 @@
       "regionId": 3,
       "city": "THESSALONIKI"
     }
+  ],
+  "2026-03-16": [
+    {
+      "regionId": 1,
+      "city": "CUCUTA"
+    },
+    {
+      "regionId": 3,
+      "city": "BRUSSELS"
+    }
   ]
 }
