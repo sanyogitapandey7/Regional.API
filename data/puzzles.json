@@ -3638,5 +3638,15 @@
       "regionId": 2,
       "city": "DONETSK"
     }
+  ],
+  "2026-04-02": [
+    {
+      "regionId": 5,
+      "city": "HARGEYSA"
+    },
+    {
+      "regionId": 4,
+      "city": "MEDAN"
+    }
   ]
 }
