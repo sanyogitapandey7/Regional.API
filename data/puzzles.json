@@ -3668,5 +3668,15 @@
       "regionId": 4,
       "city": "MYSORE"
     }
+  ],
+  "2026-04-05": [
+    {
+      "regionId": 1,
+      "city": "CUCUTA"
+    },
+    {
+      "regionId": 4,
+      "city": "BANGALORE"
+    }
   ]
 }
