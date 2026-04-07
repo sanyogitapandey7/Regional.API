@@ -3688,5 +3688,15 @@
       "regionId": 2,
       "city": "MINSK"
     }
+  ],
+  "2026-04-07": [
+    {
+      "regionId": 1,
+      "city": "TUXTLAGUTIERREZ"
+    },
+    {
+      "regionId": 2,
+      "city": "MOSUL"
+    }
   ]
 }
