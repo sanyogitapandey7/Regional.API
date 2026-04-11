@@ -3728,5 +3728,15 @@
       "regionId": 2,
       "city": "ODESA"
     }
+  ],
+  "2026-04-11": [
+    {
+      "regionId": 2,
+      "city": "SHIMKENT"
+    },
+    {
+      "regionId": 5,
+      "city": "MERCA"
+    }
   ]
 }
