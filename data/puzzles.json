@@ -3738,5 +3738,15 @@
       "regionId": 5,
       "city": "MERCA"
     }
+  ],
+  "2026-04-12": [
+    {
+      "regionId": 3,
+      "city": "BARCELONA"
+    },
+    {
+      "regionId": 1,
+      "city": "BUENOSAIRES"
+    }
   ]
 }
