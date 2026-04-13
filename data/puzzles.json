@@ -3748,5 +3748,15 @@
       "regionId": 1,
       "city": "BUENOSAIRES"
     }
+  ],
+  "2026-04-13": [
+    {
+      "regionId": 1,
+      "city": "BUENOSAIRES"
+    },
+    {
+      "regionId": 5,
+      "city": "PRETORIA"
+    }
   ]
 }
