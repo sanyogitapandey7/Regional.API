@@ -3798,5 +3798,15 @@
       "regionId": 3,
       "city": "HAMBURG"
     }
+  ],
+  "2026-04-18": [
+    {
+      "regionId": 5,
+      "city": "BUJUMBURA"
+    },
+    {
+      "regionId": 1,
+      "city": "RIODEJANEIRO"
+    }
   ]
 }
