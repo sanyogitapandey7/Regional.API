@@ -3808,5 +3808,15 @@
       "regionId": 1,
       "city": "RIODEJANEIRO"
     }
+  ],
+  "2026-04-19": [
+    {
+      "regionId": 3,
+      "city": "MANCHESTER"
+    },
+    {
+      "regionId": 5,
+      "city": "CAPETOWN"
+    }
   ]
 }
