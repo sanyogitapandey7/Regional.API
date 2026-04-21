@@ -3828,5 +3828,15 @@
       "regionId": 1,
       "city": "MONTEVIDEO"
     }
+  ],
+  "2026-04-21": [
+    {
+      "regionId": 2,
+      "city": "KIRKUK"
+    },
+    {
+      "regionId": 4,
+      "city": "MANDALAY"
+    }
   ]
 }
