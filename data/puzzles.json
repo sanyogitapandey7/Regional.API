@@ -3888,5 +3888,15 @@
       "regionId": 2,
       "city": "KONYA"
     }
+  ],
+  "2026-04-27": [
+    {
+      "regionId": 5,
+      "city": "ACCRA"
+    },
+    {
+      "regionId": 4,
+      "city": "JINCHENG"
+    }
   ]
 }
