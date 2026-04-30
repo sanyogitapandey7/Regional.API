@@ -3918,5 +3918,15 @@
       "regionId": 1,
       "city": "SANPEDROSULA"
     }
+  ],
+  "2026-04-30": [
+    {
+      "regionId": 2,
+      "city": "MERSIN"
+    },
+    {
+      "regionId": 3,
+      "city": "MARSEILLE"
+    }
   ]
 }
