@@ -3928,5 +3928,15 @@
       "regionId": 3,
       "city": "MARSEILLE"
     }
+  ],
+  "2026-05-01": [
+    {
+      "regionId": 5,
+      "city": "KAMPALA"
+    },
+    {
+      "regionId": 2,
+      "city": "ALMATY"
+    }
   ]
 }
