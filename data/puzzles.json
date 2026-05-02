@@ -3938,5 +3938,15 @@
       "regionId": 2,
       "city": "ALMATY"
     }
+  ],
+  "2026-05-02": [
+    {
+      "regionId": 1,
+      "city": "CAMPINAS"
+    },
+    {
+      "regionId": 4,
+      "city": "XINYANG"
+    }
   ]
 }
