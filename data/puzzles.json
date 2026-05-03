@@ -3948,5 +3948,15 @@
       "regionId": 4,
       "city": "XINYANG"
     }
+  ],
+  "2026-05-03": [
+    {
+      "regionId": 4,
+      "city": "QUZHOU"
+    },
+    {
+      "regionId": 2,
+      "city": "HAMAH"
+    }
   ]
 }
