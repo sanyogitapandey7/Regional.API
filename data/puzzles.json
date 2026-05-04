@@ -3958,5 +3958,15 @@
       "regionId": 2,
       "city": "HAMAH"
     }
+  ],
+  "2026-05-04": [
+    {
+      "regionId": 2,
+      "city": "KRASNOYARSK"
+    },
+    {
+      "regionId": 4,
+      "city": "BINZHOU"
+    }
   ]
 }
