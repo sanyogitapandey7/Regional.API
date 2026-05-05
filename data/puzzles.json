@@ -3968,5 +3968,15 @@
       "regionId": 4,
       "city": "BINZHOU"
     }
+  ],
+  "2026-05-05": [
+    {
+      "regionId": 3,
+      "city": "MILAN"
+    },
+    {
+      "regionId": 5,
+      "city": "BOBODIOULASSO"
+    }
   ]
 }
