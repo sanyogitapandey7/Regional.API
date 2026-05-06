@@ -3978,5 +3978,15 @@
       "regionId": 5,
       "city": "BOBODIOULASSO"
     }
+  ],
+  "2026-05-06": [
+    {
+      "regionId": 5,
+      "city": "MBUJIMAYI"
+    },
+    {
+      "regionId": 4,
+      "city": "HOHHOT"
+    }
   ]
 }
