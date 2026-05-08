@@ -3998,5 +3998,15 @@
       "regionId": 4,
       "city": "DAVAOCITY"
     }
+  ],
+  "2026-05-08": [
+    {
+      "regionId": 2,
+      "city": "MINSK"
+    },
+    {
+      "regionId": 3,
+      "city": "GLASGOW"
+    }
   ]
 }
