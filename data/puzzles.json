@@ -4008,5 +4008,15 @@
       "regionId": 3,
       "city": "GLASGOW"
     }
+  ],
+  "2026-05-09": [
+    {
+      "regionId": 4,
+      "city": "XIAN"
+    },
+    {
+      "regionId": 3,
+      "city": "BERGAMO"
+    }
   ]
 }
