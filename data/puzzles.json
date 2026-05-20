@@ -4118,5 +4118,15 @@
       "regionId": 1,
       "city": "SOROCABA"
     }
+  ],
+  "2026-05-20": [
+    {
+      "regionId": 3,
+      "city": "HELSINKI"
+    },
+    {
+      "regionId": 4,
+      "city": "SHANGHAI"
+    }
   ]
 }
