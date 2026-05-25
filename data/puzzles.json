@@ -4168,5 +4168,15 @@
       "regionId": 1,
       "city": "MONTREAL"
     }
+  ],
+  "2026-05-25": [
+    {
+      "regionId": 4,
+      "city": "SHIJIAZHUANG"
+    },
+    {
+      "regionId": 2,
+      "city": "GEBZE"
+    }
   ]
 }
