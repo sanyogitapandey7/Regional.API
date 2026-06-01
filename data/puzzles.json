@@ -4238,5 +4238,15 @@
       "regionId": 5,
       "city": "KANO"
     }
+  ],
+  "2026-06-01": [
+    {
+      "regionId": 4,
+      "city": "CHERTHALA"
+    },
+    {
+      "regionId": 1,
+      "city": "ROSARIO"
+    }
   ]
 }
