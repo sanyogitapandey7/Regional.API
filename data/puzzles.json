@@ -4248,5 +4248,15 @@
       "regionId": 1,
       "city": "ROSARIO"
     }
+  ],
+  "2026-06-02": [
+    {
+      "regionId": 2,
+      "city": "ADANA"
+    },
+    {
+      "regionId": 1,
+      "city": "FORTALEZA"
+    }
   ]
 }
