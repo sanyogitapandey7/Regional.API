@@ -4258,5 +4258,15 @@
       "regionId": 1,
       "city": "FORTALEZA"
     }
+  ],
+  "2026-06-03": [
+    {
+      "regionId": 2,
+      "city": "JERUSALEM"
+    },
+    {
+      "regionId": 1,
+      "city": "SAOPAULO"
+    }
   ]
 }
