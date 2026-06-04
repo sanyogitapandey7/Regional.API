@@ -4268,5 +4268,15 @@
       "regionId": 1,
       "city": "SAOPAULO"
     }
+  ],
+  "2026-06-04": [
+    {
+      "regionId": 5,
+      "city": "YAOUNDE"
+    },
+    {
+      "regionId": 2,
+      "city": "HAMAH"
+    }
   ]
 }
