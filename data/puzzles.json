@@ -4278,5 +4278,15 @@
       "regionId": 2,
       "city": "HAMAH"
     }
+  ],
+  "2026-06-05": [
+    {
+      "regionId": 3,
+      "city": "MADRID"
+    },
+    {
+      "regionId": 1,
+      "city": "HAVANA"
+    }
   ]
 }
