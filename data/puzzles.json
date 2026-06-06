@@ -4288,5 +4288,15 @@
       "regionId": 1,
       "city": "HAVANA"
     }
+  ],
+  "2026-06-06": [
+    {
+      "regionId": 5,
+      "city": "CONAKRY"
+    },
+    {
+      "regionId": 1,
+      "city": "PORTAUPRINCE"
+    }
   ]
 }
