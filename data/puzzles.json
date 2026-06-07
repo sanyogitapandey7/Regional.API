@@ -4298,5 +4298,15 @@
       "regionId": 1,
       "city": "PORTAUPRINCE"
     }
+  ],
+  "2026-06-07": [
+    {
+      "regionId": 5,
+      "city": "LAGOS"
+    },
+    {
+      "regionId": 1,
+      "city": "CUCUTA"
+    }
   ]
 }
