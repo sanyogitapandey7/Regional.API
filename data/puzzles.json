@@ -4308,5 +4308,15 @@
       "regionId": 1,
       "city": "CUCUTA"
     }
+  ],
+  "2026-06-08": [
+    {
+      "regionId": 3,
+      "city": "LISBON"
+    },
+    {
+      "regionId": 4,
+      "city": "DONGGUAN"
+    }
   ]
 }
