@@ -4318,5 +4318,15 @@
       "regionId": 4,
       "city": "DONGGUAN"
     }
+  ],
+  "2026-06-09": [
+    {
+      "regionId": 5,
+      "city": "BUKAVU"
+    },
+    {
+      "regionId": 4,
+      "city": "BANDARLAMPUNG"
+    }
   ]
 }
