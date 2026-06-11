@@ -4338,5 +4338,15 @@
       "regionId": 1,
       "city": "QUERETARO"
     }
+  ],
+  "2026-06-11": [
+    {
+      "regionId": 1,
+      "city": "CUCUTA"
+    },
+    {
+      "regionId": 5,
+      "city": "MAPUTO"
+    }
   ]
 }
