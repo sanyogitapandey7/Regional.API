@@ -4348,5 +4348,15 @@
       "regionId": 5,
       "city": "MAPUTO"
     }
+  ],
+  "2026-06-12": [
+    {
+      "regionId": 1,
+      "city": "LAPAZ"
+    },
+    {
+      "regionId": 3,
+      "city": "BIRMINGHAM"
+    }
   ]
 }
