@@ -4358,5 +4358,15 @@
       "regionId": 3,
       "city": "BIRMINGHAM"
     }
+  ],
+  "2026-06-13": [
+    {
+      "regionId": 3,
+      "city": "TURIN"
+    },
+    {
+      "regionId": 5,
+      "city": "KAMPALA"
+    }
   ]
 }
