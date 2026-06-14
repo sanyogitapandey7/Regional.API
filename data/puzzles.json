@@ -4368,5 +4368,15 @@
       "regionId": 5,
       "city": "KAMPALA"
     }
+  ],
+  "2026-06-14": [
+    {
+      "regionId": 1,
+      "city": "MARACAY"
+    },
+    {
+      "regionId": 4,
+      "city": "LINYISHANDONG"
+    }
   ]
 }
