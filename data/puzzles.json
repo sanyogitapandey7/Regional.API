@@ -4378,5 +4378,15 @@
       "regionId": 4,
       "city": "LINYISHANDONG"
     }
+  ],
+  "2026-06-15": [
+    {
+      "regionId": 3,
+      "city": "LIVERPOOL"
+    },
+    {
+      "regionId": 5,
+      "city": "KANO"
+    }
   ]
 }
