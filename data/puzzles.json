@@ -4388,5 +4388,15 @@
       "regionId": 5,
       "city": "KANO"
     }
+  ],
+  "2026-06-16": [
+    {
+      "regionId": 1,
+      "city": "SANJOSE"
+    },
+    {
+      "regionId": 4,
+      "city": "SHANGQIU"
+    }
   ]
 }
