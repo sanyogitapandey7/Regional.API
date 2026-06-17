@@ -4398,5 +4398,15 @@
       "regionId": 4,
       "city": "SHANGQIU"
     }
+  ],
+  "2026-06-17": [
+    {
+      "regionId": 1,
+      "city": "GRANDESAOLUIS"
+    },
+    {
+      "regionId": 2,
+      "city": "KHARKIV"
+    }
   ]
 }
