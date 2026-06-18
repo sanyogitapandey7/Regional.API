@@ -4408,5 +4408,15 @@
       "regionId": 2,
       "city": "KHARKIV"
     }
+  ],
+  "2026-06-18": [
+    {
+      "regionId": 3,
+      "city": "NAPLES"
+    },
+    {
+      "regionId": 1,
+      "city": "LIMA"
+    }
   ]
 }
