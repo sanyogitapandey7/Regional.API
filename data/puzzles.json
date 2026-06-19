@@ -4418,5 +4418,15 @@
       "regionId": 1,
       "city": "LIMA"
     }
+  ],
+  "2026-06-19": [
+    {
+      "regionId": 1,
+      "city": "CUERNAVACA"
+    },
+    {
+      "regionId": 3,
+      "city": "ANTWERP"
+    }
   ]
 }
