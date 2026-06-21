@@ -4438,5 +4438,15 @@
       "regionId": 5,
       "city": "LOME"
     }
+  ],
+  "2026-06-21": [
+    {
+      "regionId": 4,
+      "city": "DATONG"
+    },
+    {
+      "regionId": 5,
+      "city": "SOSHANGUVE"
+    }
   ]
 }
