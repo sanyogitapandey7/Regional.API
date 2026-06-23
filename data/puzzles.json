@@ -4458,5 +4458,15 @@
       "regionId": 1,
       "city": "QUITO"
     }
+  ],
+  "2026-06-23": [
+    {
+      "regionId": 2,
+      "city": "TELAVIV"
+    },
+    {
+      "regionId": 5,
+      "city": "CABINDA"
+    }
   ]
 }
