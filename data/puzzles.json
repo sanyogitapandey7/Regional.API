@@ -4498,5 +4498,15 @@
       "regionId": 3,
       "city": "ANTWERP"
     }
+  ],
+  "2026-06-27": [
+    {
+      "regionId": 2,
+      "city": "AGADIR"
+    },
+    {
+      "regionId": 4,
+      "city": "HUBLIDHARWAD"
+    }
   ]
 }
