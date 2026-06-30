@@ -4528,5 +4528,15 @@
       "regionId": 2,
       "city": "BURSAID"
     }
+  ],
+  "2026-06-30": [
+    {
+      "regionId": 5,
+      "city": "LAGOS"
+    },
+    {
+      "regionId": 1,
+      "city": "EDMONTON"
+    }
   ]
 }
