@@ -4538,5 +4538,15 @@
       "regionId": 1,
       "city": "EDMONTON"
     }
+  ],
+  "2026-07-01": [
+    {
+      "regionId": 2,
+      "city": "ODESA"
+    },
+    {
+      "regionId": 4,
+      "city": "LAIWU"
+    }
   ]
 }
