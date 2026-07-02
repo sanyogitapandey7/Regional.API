@@ -4548,5 +4548,15 @@
       "regionId": 4,
       "city": "LAIWU"
     }
+  ],
+  "2026-07-02": [
+    {
+      "regionId": 2,
+      "city": "IZMIR"
+    },
+    {
+      "regionId": 5,
+      "city": "ACCRA"
+    }
   ]
 }
