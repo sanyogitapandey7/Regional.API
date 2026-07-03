@@ -4558,5 +4558,15 @@
       "regionId": 5,
       "city": "ACCRA"
     }
+  ],
+  "2026-07-03": [
+    {
+      "regionId": 2,
+      "city": "ALGIERS"
+    },
+    {
+      "regionId": 3,
+      "city": "PARIS"
+    }
   ]
 }
