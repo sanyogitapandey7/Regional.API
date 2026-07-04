@@ -4568,5 +4568,15 @@
       "regionId": 3,
       "city": "PARIS"
     }
+  ],
+  "2026-07-04": [
+    {
+      "regionId": 1,
+      "city": "MARACAY"
+    },
+    {
+      "regionId": 3,
+      "city": "LYON"
+    }
   ]
 }
