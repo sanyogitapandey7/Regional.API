@@ -4578,5 +4578,15 @@
       "regionId": 3,
       "city": "LYON"
     }
+  ],
+  "2026-07-05": [
+    {
+      "regionId": 3,
+      "city": "GLASGOW"
+    },
+    {
+      "regionId": 1,
+      "city": "QUERETARO"
+    }
   ]
 }
