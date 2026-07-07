@@ -4598,5 +4598,15 @@
       "regionId": 2,
       "city": "MISRATAH"
     }
+  ],
+  "2026-07-07": [
+    {
+      "regionId": 4,
+      "city": "SALEM"
+    },
+    {
+      "regionId": 1,
+      "city": "SANDIEGO"
+    }
   ]
 }
