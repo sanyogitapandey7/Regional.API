@@ -4608,5 +4608,15 @@
       "regionId": 1,
       "city": "SANDIEGO"
     }
+  ],
+  "2026-07-08": [
+    {
+      "regionId": 2,
+      "city": "TASHKENT"
+    },
+    {
+      "regionId": 4,
+      "city": "HUZHOU"
+    }
   ]
 }
