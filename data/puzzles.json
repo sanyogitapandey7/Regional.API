@@ -4628,5 +4628,15 @@
       "regionId": 1,
       "city": "PORTAUPRINCE"
     }
+  ],
+  "2026-07-10": [
+    {
+      "regionId": 2,
+      "city": "JEDDAH"
+    },
+    {
+      "regionId": 3,
+      "city": "MANCHESTER"
+    }
   ]
 }
