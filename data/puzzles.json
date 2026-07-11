@@ -4638,5 +4638,15 @@
       "regionId": 3,
       "city": "MANCHESTER"
     }
+  ],
+  "2026-07-11": [
+    {
+      "regionId": 1,
+      "city": "ARACAJU"
+    },
+    {
+      "regionId": 5,
+      "city": "NAIROBI"
+    }
   ]
 }
