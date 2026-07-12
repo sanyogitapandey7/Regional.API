@@ -4648,5 +4648,15 @@
       "regionId": 5,
       "city": "NAIROBI"
     }
+  ],
+  "2026-07-12": [
+    {
+      "regionId": 2,
+      "city": "ABUDHABI"
+    },
+    {
+      "regionId": 1,
+      "city": "FLORIANOPOLIS"
+    }
   ]
 }
