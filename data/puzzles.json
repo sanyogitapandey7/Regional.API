@@ -4658,5 +4658,15 @@
       "regionId": 1,
       "city": "FLORIANOPOLIS"
     }
+  ],
+  "2026-07-13": [
+    {
+      "regionId": 3,
+      "city": "MANCHESTER"
+    },
+    {
+      "regionId": 4,
+      "city": "ZHUMADIAN"
+    }
   ]
 }
