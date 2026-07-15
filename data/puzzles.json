@@ -4678,5 +4678,15 @@
       "regionId": 4,
       "city": "HENGSHUI"
     }
+  ],
+  "2026-07-15": [
+    {
+      "regionId": 3,
+      "city": "PALERMO"
+    },
+    {
+      "regionId": 4,
+      "city": "TANGSHANHEBEI"
+    }
   ]
 }
