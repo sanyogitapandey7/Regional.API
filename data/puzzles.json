@@ -4688,5 +4688,15 @@
       "regionId": 4,
       "city": "TANGSHANHEBEI"
     }
+  ],
+  "2026-07-16": [
+    {
+      "regionId": 3,
+      "city": "TURIN"
+    },
+    {
+      "regionId": 5,
+      "city": "HARARE"
+    }
   ]
 }
