@@ -4698,5 +4698,15 @@
       "regionId": 5,
       "city": "HARARE"
     }
+  ],
+  "2026-07-17": [
+    {
+      "regionId": 2,
+      "city": "ASHGABAT"
+    },
+    {
+      "regionId": 4,
+      "city": "FUZHOUJIANGXI"
+    }
   ]
 }
