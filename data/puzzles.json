@@ -4708,5 +4708,15 @@
       "regionId": 4,
       "city": "FUZHOUJIANGXI"
     }
+  ],
+  "2026-07-18": [
+    {
+      "regionId": 5,
+      "city": "CABINDA"
+    },
+    {
+      "regionId": 2,
+      "city": "KAYSERI"
+    }
   ]
 }
