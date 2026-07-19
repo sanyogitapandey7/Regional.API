@@ -4718,5 +4718,15 @@
       "regionId": 2,
       "city": "KAYSERI"
     }
+  ],
+  "2026-07-19": [
+    {
+      "regionId": 4,
+      "city": "BIENHOA"
+    },
+    {
+      "regionId": 1,
+      "city": "MEXICOCITY"
+    }
   ]
 }
