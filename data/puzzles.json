@@ -4748,5 +4748,15 @@
       "regionId": 2,
       "city": "ALGIERS"
     }
+  ],
+  "2026-07-22": [
+    {
+      "regionId": 2,
+      "city": "BAGHDAD"
+    },
+    {
+      "regionId": 5,
+      "city": "BUNIA"
+    }
   ]
 }
