@@ -4758,5 +4758,15 @@
       "regionId": 5,
       "city": "BUNIA"
     }
+  ],
+  "2026-07-23": [
+    {
+      "regionId": 2,
+      "city": "KAYSERI"
+    },
+    {
+      "regionId": 1,
+      "city": "MEDELLIN"
+    }
   ]
 }
