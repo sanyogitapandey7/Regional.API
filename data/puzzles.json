@@ -4768,5 +4768,15 @@
       "regionId": 1,
       "city": "MEDELLIN"
     }
+  ],
+  "2026-07-24": [
+    {
+      "regionId": 3,
+      "city": "THESSALONIKI"
+    },
+    {
+      "regionId": 2,
+      "city": "TBILISI"
+    }
   ]
 }
