@@ -4778,5 +4778,15 @@
       "regionId": 2,
       "city": "TBILISI"
     }
+  ],
+  "2026-07-25": [
+    {
+      "regionId": 4,
+      "city": "NEWTAIPEI"
+    },
+    {
+      "regionId": 5,
+      "city": "KAMPALA"
+    }
   ]
 }
