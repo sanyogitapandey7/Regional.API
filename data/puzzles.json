@@ -4788,5 +4788,15 @@
       "regionId": 5,
       "city": "KAMPALA"
     }
+  ],
+  "2026-07-26": [
+    {
+      "regionId": 1,
+      "city": "MENDOZA"
+    },
+    {
+      "regionId": 4,
+      "city": "HEFEI"
+    }
   ]
 }
