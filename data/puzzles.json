@@ -4838,5 +4838,15 @@
       "regionId": 2,
       "city": "IBB"
     }
+  ],
+  "2026-07-31": [
+    {
+      "regionId": 1,
+      "city": "TAMPICO"
+    },
+    {
+      "regionId": 2,
+      "city": "TRIPOLI"
+    }
   ]
 }
