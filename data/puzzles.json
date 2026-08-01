@@ -4848,5 +4848,15 @@
       "regionId": 2,
       "city": "TRIPOLI"
     }
+  ],
+  "2026-08-01": [
+    {
+      "regionId": 2,
+      "city": "DNIPRO"
+    },
+    {
+      "regionId": 3,
+      "city": "HAMBURG"
+    }
   ]
 }
