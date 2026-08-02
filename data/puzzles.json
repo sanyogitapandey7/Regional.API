@@ -4858,5 +4858,15 @@
       "regionId": 3,
       "city": "HAMBURG"
     }
+  ],
+  "2026-08-02": [
+    {
+      "regionId": 4,
+      "city": "BIKANER"
+    },
+    {
+      "regionId": 3,
+      "city": "ROME"
+    }
   ]
 }
