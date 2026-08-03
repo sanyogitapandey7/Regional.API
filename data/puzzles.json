@@ -4868,5 +4868,15 @@
       "regionId": 3,
       "city": "ROME"
     }
+  ],
+  "2026-08-03": [
+    {
+      "regionId": 2,
+      "city": "KAZAN"
+    },
+    {
+      "regionId": 1,
+      "city": "COLUMBUS"
+    }
   ]
 }
