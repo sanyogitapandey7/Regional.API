@@ -4878,5 +4878,15 @@
       "regionId": 1,
       "city": "COLUMBUS"
     }
+  ],
+  "2026-08-04": [
+    {
+      "regionId": 4,
+      "city": "JAKARTA"
+    },
+    {
+      "regionId": 1,
+      "city": "FLORIANOPOLIS"
+    }
   ]
 }
