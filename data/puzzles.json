@@ -4888,5 +4888,15 @@
       "regionId": 1,
       "city": "FLORIANOPOLIS"
     }
+  ],
+  "2026-08-05": [
+    {
+      "regionId": 4,
+      "city": "LINHAI"
+    },
+    {
+      "regionId": 3,
+      "city": "LONDON"
+    }
   ]
 }
