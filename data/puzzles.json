@@ -4918,5 +4918,15 @@
       "regionId": 2,
       "city": "KAYSERI"
     }
+  ],
+  "2026-08-08": [
+    {
+      "regionId": 1,
+      "city": "VALPARAISO"
+    },
+    {
+      "regionId": 2,
+      "city": "DIYARBAKIR"
+    }
   ]
 }
