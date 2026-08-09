@@ -4928,5 +4928,15 @@
       "regionId": 2,
       "city": "DIYARBAKIR"
     }
+  ],
+  "2026-08-09": [
+    {
+      "regionId": 4,
+      "city": "CHENGDE"
+    },
+    {
+      "regionId": 2,
+      "city": "BANGHAZI"
+    }
   ]
 }
