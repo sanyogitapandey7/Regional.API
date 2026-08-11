@@ -4948,5 +4948,15 @@
       "regionId": 4,
       "city": "TENGZHOU"
     }
+  ],
+  "2026-08-11": [
+    {
+      "regionId": 1,
+      "city": "SANJUAN"
+    },
+    {
+      "regionId": 2,
+      "city": "ASHGABAT"
+    }
   ]
 }
