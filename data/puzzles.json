@@ -4958,5 +4958,15 @@
       "regionId": 2,
       "city": "ASHGABAT"
     }
+  ],
+  "2026-08-12": [
+    {
+      "regionId": 3,
+      "city": "BOLOGNA"
+    },
+    {
+      "regionId": 2,
+      "city": "AMMAN"
+    }
   ]
 }
