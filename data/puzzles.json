@@ -4968,5 +4968,15 @@
       "regionId": 2,
       "city": "AMMAN"
     }
+  ],
+  "2026-08-13": [
+    {
+      "regionId": 2,
+      "city": "GAZA"
+    },
+    {
+      "regionId": 3,
+      "city": "FRANKFURT"
+    }
   ]
 }
