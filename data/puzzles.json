@@ -4978,5 +4978,15 @@
       "regionId": 3,
       "city": "FRANKFURT"
     }
+  ],
+  "2026-08-14": [
+    {
+      "regionId": 3,
+      "city": "TURIN"
+    },
+    {
+      "regionId": 2,
+      "city": "AMMAN"
+    }
   ]
 }
