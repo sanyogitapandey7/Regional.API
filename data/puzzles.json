@@ -4988,5 +4988,15 @@
       "regionId": 2,
       "city": "AMMAN"
     }
+  ],
+  "2026-08-15": [
+    {
+      "regionId": 2,
+      "city": "RIYADH"
+    },
+    {
+      "regionId": 5,
+      "city": "HARARE"
+    }
   ]
 }
