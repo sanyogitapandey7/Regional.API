@@ -5028,5 +5028,15 @@
       "regionId": 5,
       "city": "MAIDUGURI"
     }
+  ],
+  "2026-08-19": [
+    {
+      "regionId": 2,
+      "city": "WARSAW"
+    },
+    {
+      "regionId": 5,
+      "city": "GOMA"
+    }
   ]
 }
