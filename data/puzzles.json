@@ -5058,5 +5058,15 @@
       "regionId": 3,
       "city": "MANCHESTER"
     }
+  ],
+  "2026-08-22": [
+    {
+      "regionId": 2,
+      "city": "KRASNODAR"
+    },
+    {
+      "regionId": 3,
+      "city": "GLASGOW"
+    }
   ]
 }
