@@ -5068,5 +5068,15 @@
       "regionId": 3,
       "city": "GLASGOW"
     }
+  ],
+  "2026-08-23": [
+    {
+      "regionId": 3,
+      "city": "LILLE"
+    },
+    {
+      "regionId": 5,
+      "city": "PRETORIA"
+    }
   ]
 }
