@@ -5078,5 +5078,15 @@
       "regionId": 5,
       "city": "PRETORIA"
     }
+  ],
+  "2026-08-24": [
+    {
+      "regionId": 2,
+      "city": "ADANA"
+    },
+    {
+      "regionId": 1,
+      "city": "SALTILLO"
+    }
   ]
 }
