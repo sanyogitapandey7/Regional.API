@@ -5138,5 +5138,15 @@
       "regionId": 2,
       "city": "VOLGOGRAD"
     }
+  ],
+  "2026-08-30": [
+    {
+      "regionId": 1,
+      "city": "MEDELLIN"
+    },
+    {
+      "regionId": 4,
+      "city": "YANAN"
+    }
   ]
 }
