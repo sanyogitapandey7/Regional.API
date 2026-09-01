@@ -5158,5 +5158,15 @@
       "regionId": 3,
       "city": "LIVERPOOL"
     }
+  ],
+  "2026-09-01": [
+    {
+      "regionId": 4,
+      "city": "HAERBIN"
+    },
+    {
+      "regionId": 5,
+      "city": "TSHIKAPA"
+    }
   ]
 }
