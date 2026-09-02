@@ -5168,5 +5168,15 @@
       "regionId": 5,
       "city": "TSHIKAPA"
     }
+  ],
+  "2026-09-02": [
+    {
+      "regionId": 4,
+      "city": "XINYANG"
+    },
+    {
+      "regionId": 1,
+      "city": "XALAPA"
+    }
   ]
 }
