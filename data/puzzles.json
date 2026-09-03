@@ -5178,5 +5178,15 @@
       "regionId": 1,
       "city": "XALAPA"
     }
+  ],
+  "2026-09-03": [
+    {
+      "regionId": 3,
+      "city": "MUNICH"
+    },
+    {
+      "regionId": 2,
+      "city": "DUBAI"
+    }
   ]
 }
