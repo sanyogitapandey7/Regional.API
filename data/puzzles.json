@@ -5208,5 +5208,15 @@
       "regionId": 4,
       "city": "SRINAGAR"
     }
+  ],
+  "2026-09-06": [
+    {
+      "regionId": 2,
+      "city": "ALEPPO"
+    },
+    {
+      "regionId": 1,
+      "city": "BRASILIA"
+    }
   ]
 }
