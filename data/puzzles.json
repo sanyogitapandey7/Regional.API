@@ -5248,5 +5248,15 @@
       "regionId": 1,
       "city": "JOINVILLE"
     }
+  ],
+  "2026-09-10": [
+    {
+      "regionId": 1,
+      "city": "COCHABAMBA"
+    },
+    {
+      "regionId": 4,
+      "city": "GUILIN"
+    }
   ]
 }
