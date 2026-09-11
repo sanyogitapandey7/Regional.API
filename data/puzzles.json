@@ -5258,5 +5258,15 @@
       "regionId": 4,
       "city": "GUILIN"
     }
+  ],
+  "2026-09-11": [
+    {
+      "regionId": 3,
+      "city": "PARIS"
+    },
+    {
+      "regionId": 1,
+      "city": "LIMA"
+    }
   ]
 }
