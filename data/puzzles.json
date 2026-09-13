@@ -5278,5 +5278,15 @@
       "regionId": 4,
       "city": "TIANSHUI"
     }
+  ],
+  "2026-09-13": [
+    {
+      "regionId": 2,
+      "city": "RABAT"
+    },
+    {
+      "regionId": 1,
+      "city": "SANTACRUZ"
+    }
   ]
 }
