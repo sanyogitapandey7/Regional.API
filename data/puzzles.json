@@ -5298,5 +5298,15 @@
       "regionId": 2,
       "city": "KAZAN"
     }
+  ],
+  "2026-09-15": [
+    {
+      "regionId": 3,
+      "city": "STOCKHOLM"
+    },
+    {
+      "regionId": 5,
+      "city": "BOBODIOULASSO"
+    }
   ]
 }
