@@ -5308,5 +5308,15 @@
       "regionId": 5,
       "city": "BOBODIOULASSO"
     }
+  ],
+  "2026-09-16": [
+    {
+      "regionId": 2,
+      "city": "ADEN"
+    },
+    {
+      "regionId": 1,
+      "city": "HAMILTON"
+    }
   ]
 }
