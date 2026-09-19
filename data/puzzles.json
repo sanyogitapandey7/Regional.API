@@ -5338,5 +5338,15 @@
       "regionId": 5,
       "city": "MERCA"
     }
+  ],
+  "2026-09-19": [
+    {
+      "regionId": 5,
+      "city": "KIGALI"
+    },
+    {
+      "regionId": 3,
+      "city": "LISBON"
+    }
   ]
 }
