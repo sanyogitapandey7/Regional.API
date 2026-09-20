@@ -5348,5 +5348,15 @@
       "regionId": 3,
       "city": "LISBON"
     }
+  ],
+  "2026-09-20": [
+    {
+      "regionId": 1,
+      "city": "BUCARAMANGA"
+    },
+    {
+      "regionId": 2,
+      "city": "NAJAF"
+    }
   ]
 }
