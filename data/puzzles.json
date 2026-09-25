@@ -5398,5 +5398,15 @@
       "regionId": 2,
       "city": "KIEV"
     }
+  ],
+  "2026-09-25": [
+    {
+      "regionId": 5,
+      "city": "CAPETOWN"
+    },
+    {
+      "regionId": 4,
+      "city": "MANILA"
+    }
   ]
 }
