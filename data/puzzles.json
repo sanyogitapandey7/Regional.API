@@ -5418,5 +5418,15 @@
       "regionId": 4,
       "city": "SYDNEY"
     }
+  ],
+  "2026-09-27": [
+    {
+      "regionId": 4,
+      "city": "HUZHOU"
+    },
+    {
+      "regionId": 1,
+      "city": "MANAUS"
+    }
   ]
 }
