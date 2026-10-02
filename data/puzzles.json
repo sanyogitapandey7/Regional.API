@@ -5468,5 +5468,15 @@
       "regionId": 3,
       "city": "ANTWERP"
     }
+  ],
+  "2026-10-02": [
+    {
+      "regionId": 2,
+      "city": "GAZA"
+    },
+    {
+      "regionId": 5,
+      "city": "LUANDA"
+    }
   ]
 }
