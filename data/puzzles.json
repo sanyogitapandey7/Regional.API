@@ -5488,5 +5488,15 @@
       "regionId": 1,
       "city": "MACEIO"
     }
+  ],
+  "2026-10-04": [
+    {
+      "regionId": 1,
+      "city": "FLORIANOPOLIS"
+    },
+    {
+      "regionId": 2,
+      "city": "SAMARA"
+    }
   ]
 }
