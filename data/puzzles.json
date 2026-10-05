@@ -5498,5 +5498,15 @@
       "regionId": 2,
       "city": "SAMARA"
     }
+  ],
+  "2026-10-05": [
+    {
+      "regionId": 4,
+      "city": "XINGTAI"
+    },
+    {
+      "regionId": 5,
+      "city": "ONITSHA"
+    }
   ]
 }
