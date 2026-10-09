@@ -5538,5 +5538,15 @@
       "regionId": 1,
       "city": "FORTWORTH"
     }
+  ],
+  "2026-10-09": [
+    {
+      "regionId": 3,
+      "city": "BORDEAUX"
+    },
+    {
+      "regionId": 2,
+      "city": "TUNIS"
+    }
   ]
 }
