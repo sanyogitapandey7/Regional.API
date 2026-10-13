@@ -5578,5 +5578,15 @@
       "regionId": 5,
       "city": "BUJUMBURA"
     }
+  ],
+  "2026-10-13": [
+    {
+      "regionId": 5,
+      "city": "TAMALE"
+    },
+    {
+      "regionId": 3,
+      "city": "BIRMINGHAM"
+    }
   ]
 }
