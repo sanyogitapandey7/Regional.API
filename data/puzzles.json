@@ -5588,5 +5588,15 @@
       "regionId": 3,
       "city": "BIRMINGHAM"
     }
+  ],
+  "2026-10-14": [
+    {
+      "regionId": 1,
+      "city": "PHOENIX"
+    },
+    {
+      "regionId": 5,
+      "city": "KAMPALA"
+    }
   ]
 }
