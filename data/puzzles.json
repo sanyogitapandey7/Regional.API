@@ -5598,5 +5598,15 @@
       "regionId": 5,
       "city": "KAMPALA"
     }
+  ],
+  "2026-10-15": [
+    {
+      "regionId": 5,
+      "city": "BUKAVU"
+    },
+    {
+      "regionId": 1,
+      "city": "PORTAUPRINCE"
+    }
   ]
 }
