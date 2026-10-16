@@ -5608,5 +5608,15 @@
       "regionId": 1,
       "city": "PORTAUPRINCE"
     }
+  ],
+  "2026-10-16": [
+    {
+      "regionId": 4,
+      "city": "AUCKLAND"
+    },
+    {
+      "regionId": 5,
+      "city": "UYO"
+    }
   ]
 }
