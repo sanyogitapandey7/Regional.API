@@ -5638,5 +5638,15 @@
       "regionId": 1,
       "city": "COLUMBUS"
     }
+  ],
+  "2026-10-19": [
+    {
+      "regionId": 2,
+      "city": "CASABLANCA"
+    },
+    {
+      "regionId": 5,
+      "city": "CABINDA"
+    }
   ]
 }
