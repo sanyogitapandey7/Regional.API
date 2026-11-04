@@ -5798,5 +5798,15 @@
       "regionId": 1,
       "city": "SANPEDROSULA"
     }
+  ],
+  "2026-11-04": [
+    {
+      "regionId": 1,
+      "city": "HAVANA"
+    },
+    {
+      "regionId": 5,
+      "city": "ABOMEYCALAVI"
+    }
   ]
 }
