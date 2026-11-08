@@ -5838,5 +5838,15 @@
       "regionId": 1,
       "city": "RIBEIRAOPRETO"
     }
+  ],
+  "2026-11-08": [
+    {
+      "regionId": 1,
+      "city": "TIJUANA"
+    },
+    {
+      "regionId": 5,
+      "city": "BUKAVU"
+    }
   ]
 }
