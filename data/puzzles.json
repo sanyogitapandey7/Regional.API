@@ -5858,5 +5858,15 @@
       "regionId": 4,
       "city": "QOM"
     }
+  ],
+  "2026-11-10": [
+    {
+      "regionId": 3,
+      "city": "BERGAMO"
+    },
+    {
+      "regionId": 5,
+      "city": "NIAMEY"
+    }
   ]
 }
