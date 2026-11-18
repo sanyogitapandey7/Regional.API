@@ -5938,5 +5938,15 @@
       "regionId": 5,
       "city": "DARESSALAAM"
     }
+  ],
+  "2026-11-18": [
+    {
+      "regionId": 3,
+      "city": "BOLOGNA"
+    },
+    {
+      "regionId": 4,
+      "city": "FOSHAN"
+    }
   ]
 }
