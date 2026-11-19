@@ -5948,5 +5948,15 @@
       "regionId": 4,
       "city": "FOSHAN"
     }
+  ],
+  "2026-11-19": [
+    {
+      "regionId": 3,
+      "city": "NAPLES"
+    },
+    {
+      "regionId": 1,
+      "city": "SOROCABA"
+    }
   ]
 }
