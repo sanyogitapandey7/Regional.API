@@ -5968,5 +5968,15 @@
       "regionId": 2,
       "city": "TBILISI"
     }
+  ],
+  "2026-11-21": [
+    {
+      "regionId": 2,
+      "city": "MISRATAH"
+    },
+    {
+      "regionId": 5,
+      "city": "ASMARA"
+    }
   ]
 }
