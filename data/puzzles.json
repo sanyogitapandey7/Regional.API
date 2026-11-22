@@ -5978,5 +5978,15 @@
       "regionId": 5,
       "city": "ASMARA"
     }
+  ],
+  "2026-11-22": [
+    {
+      "regionId": 3,
+      "city": "OSLO"
+    },
+    {
+      "regionId": 1,
+      "city": "WINNIPEG"
+    }
   ]
 }
