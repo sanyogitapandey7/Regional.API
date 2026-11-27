@@ -6028,5 +6028,15 @@
       "regionId": 1,
       "city": "GOIANIA"
     }
+  ],
+  "2026-11-27": [
+    {
+      "regionId": 3,
+      "city": "LYON"
+    },
+    {
+      "regionId": 1,
+      "city": "REYNOSA"
+    }
   ]
 }
