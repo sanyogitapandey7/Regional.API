@@ -6038,5 +6038,15 @@
       "regionId": 1,
       "city": "REYNOSA"
     }
+  ],
+  "2026-11-28": [
+    {
+      "regionId": 4,
+      "city": "BACOOR"
+    },
+    {
+      "regionId": 3,
+      "city": "HAMBURG"
+    }
   ]
 }
